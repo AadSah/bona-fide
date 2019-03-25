@@ -5,19 +5,28 @@ public class sentenceExtractor{
 
 		try{
 			FileInputStream fin = new FileInputStream("./contentFile.txt");
-			int wordCount=0, sentenceCount=0, ch, temp=0;
+			int wordCount=0, sentenceCount=0, ch, temp=0;	//temp is for reducing spaces between lines
 			FileOutputStream fout = new FileOutputStream("./sentenceExtracted.txt");
 
 			while((ch=fin.read())!=-1)
 			{
 				if((char)ch == '.' || (char)ch == '?' || (char)ch == '!'){
 					sentenceCount++;
+					fout.write(ch);
 					fout.write('\n');
 					temp=1;
 				}
+				else if(ch==' ' && temp==1){
+					temp=2;
+					continue;
+				}
+
+				else if(ch=='\n'){
+					continue;
+				}
 				else{
-					if((char)ch != ' ' && (char)ch != '\n') temp=2;
-					if(temp == 2) fout.write((char)ch);
+						fout.write((char)ch);
+				// 	if(temp == 2) fout.write((char)ch);
 				}
 			}
 
