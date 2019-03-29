@@ -6,19 +6,21 @@ import java.awt.*;
 
 import java.awt.event.*; 
 
-//import java.sql.*;  
+import java.sql.*; 
+
 import login.login;
 
 import home.home;
 
-public class Registration extends JFrame
-{  
+import MyConnection.MyConnection;
+
+public class Registration extends JFrame{
     JLabel label1, label2, label3, label4, label5, label6, label7, label8,label9;  
     JTextField tf1, tf2, tf5, tf6, tf7;  
     JButton btn1, btn2;  
-    JPasswordField p1, p2;  
-    public Registration()  
-    {  
+    JPasswordField p1, p2; 
+    
+    public Registration(){  
         setVisible(true);  
         setSize(700, 700);  
         setLayout(null);
@@ -30,7 +32,7 @@ public class Registration extends JFrame
         label1.setForeground(Color.blue);  
         label1.setFont(new Font("Serif", Font.BOLD, 20));  
         label2 = new JLabel("Name:");  
-        label3 = new JLabel("Email-ID:");  
+        label3 = new JLabel("Username:");  
         label4 = new JLabel("Create Passowrd:");  
         label5 = new JLabel("Confirm Password:");  
         label8 = new JLabel("Phone No:");   
@@ -40,11 +42,9 @@ public class Registration extends JFrame
         p2 = new JPasswordField();  
         tf7 = new JTextField();  
         btn1 = new JButton("Submit");  
-        btn2 = new JButton("Clear"); 
+        btn2 = new JButton("Login"); 
         label9 = new JLabel("Enter Details for Sign UP");
-        label9.setFont(new Font("Serif", Font.BOLD, 20));
-        //btn1.addActionListener(this);  
-        //btn2.addActionListener(this);  
+        label9.setFont(new Font("Serif", Font.BOLD, 20));  
         label1.setBounds(180, 30, 400, 30);
         label9.setBounds(172,80,400,30);  
         label2.setBounds(80, 160, 200, 30);  
@@ -72,15 +72,13 @@ public class Registration extends JFrame
         add(label8);  
         add(tf7);  
         add(btn1);  
-        add(btn2);  
+        add(btn2); 
+
         btn1.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                //go to button function
-                dispose();
-                home page = new home();
-                page.setVisible(true);
+            public void actionPerformed(ActionEvent evt) {
+             	new_Connection(evt);
             }
-        });
+           });
 
         btn1.addKeyListener(new KeyAdapter() {
             @Override
@@ -91,8 +89,86 @@ public class Registration extends JFrame
                 }
             }
         });
-    }  
-    
+
+        btn2.addActionListener(new ActionListener(){
+        	public void actionPerformed(ActionEvent e){
+        		login lg = new login();
+        		dispose();
+        	}
+        });
+    }
+
+
+	public void new_Connection(ActionEvent evt){
+                    String lname = "";
+                    String name = tf1.getText();
+                    String uname = tf2.getText();
+                    String pass = String.valueOf(p1.getPassword());
+                    String re_pass = String.valueOf(p2.getPassword());
+                    String address = tf7.getText();
+
+                    if(uname.equals(""))
+                    {
+                        JOptionPane.showMessageDialog(null, "Add A Username");
+                    }
+                
+                    else if(pass.equals(""))
+                    {
+                        JOptionPane.showMessageDialog(null, "Add A Password");
+                    }
+                    else if(!pass.equals(re_pass))
+                    {
+                        JOptionPane.showMessageDialog(null, "Retype The Password Again");
+                    }
+                    
+                    else if(checkUsername(uname))
+                    {
+                        JOptionPane.showMessageDialog(null, "This Username Already Exist");
+                    }
+                    else{
+                        PreparedStatement ps;
+                        String query = "INSERT INTO `the_app_users`(`u_fname`, `u_lname`, `u_uname`, `u_pass`, `u_address`) VALUES (?,?,?,?,?)";
+                        try{
+                        ps = MyConnection.getConnection().prepareStatement(query);
+                        ps.setString(1, name);
+                        ps.setString(2, lname);
+                        ps.setString(3, uname);
+                        ps.setString(4, pass);
+                        ps.setString(5, address);
+                        if(ps.executeUpdate() > 0)
+                        {
+                            JOptionPane.showMessageDialog(null, "New User Add");
+                        }
+
+                    }catch(Exception e){
+                    	e.printStackTrace();
+                    }
+                }
+               
+    }
+                        
+    public static boolean checkUsername(String username)
+    {
+            PreparedStatement ps;
+            ResultSet rs;
+            boolean checkUser = false;
+            String query = "SELECT * FROM `the_app_users` WHERE `u_uname` =?";
+            try {
+                ps = MyConnection.getConnection().prepareStatement(query);
+                ps.setString(1, username);
+                
+                rs = ps.executeQuery();
+                
+                if(rs.next())
+                {
+                    checkUser = true;
+                }
+            }catch (SQLException ex) {
+                ex.printStackTrace();
+            }
+         return checkUser;
+    }
+
     public static void main(String args[])  
     {  
         EventQueue.invokeLater(new Runnable() {
@@ -105,5 +181,5 @@ public class Registration extends JFrame
                 }
             }
         });
-    } 
-}  
+    }
+}

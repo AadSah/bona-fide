@@ -6,7 +6,8 @@ import java.awt.*;
 
 import java.awt.event.*; 
 
-//import java.sql.*;  
+import java.sql.*;
+
 import login.login;
 
 import Registration.Registration;
@@ -65,15 +66,7 @@ public class home extends JFrame{
 	}
 	public static void main(String args[])
 	{
-		EventQueue.invokeLater(new Runnable(){
-			public void run(){
-				try{
-					home newHome = new home();
-					newHome.setVisible(true);
-				}catch(Exception e){
-					e.printStackTrace();
-				}
-			}
-		});
+		home newHome = new home();
+		newHome.setVisible(true);
 	}
 }

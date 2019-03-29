@@ -8,11 +8,15 @@ import javax.swing.border.*;
 
 import java.awt.event.*;
 
+import java.sql.*;
+
 import javax.swing.border.Border;
 
 import main_Page.main_Page;
 
 import Registration.Registration;
+
+import MyConnection.MyConnection;
 
 class RoundedBorder implements Border {
 
@@ -61,20 +65,31 @@ public class login extends JFrame {
 		});
 	}
 
-	public void signin() {
-		String UserName = new String("a");
-		String Password = new String("a");
+	public void signin(ActionEvent e) {
+		PreparedStatement ps;
+		ResultSet rs;
 		String enteredUserName = user.getText();
-		String enteredPassword = new String(passwordField.getPassword());
-		if (UserName.matches(enteredUserName) && Password.matches(enteredPassword)) {
-			dispose();
-		  	main_Page page = new main_Page();
-			page.setVisible(true);
-		} else {
-			JOptionPane.showMessageDialog(null, "Username/Password Eror", "ERROR", JOptionPane.ERROR_MESSAGE);
-			user.setText(null);
-			passwordField.setText(null);
-			user.requestFocusInWindow();
+		String enteredPassword = String.valueOf(passwordField.getPassword());
+
+		String query ="SELECT * FROM `the_app_users` WHERE `u_uname` =? AND `u_pass` =?"; 
+
+		try{
+			ps = MyConnection.getConnection().prepareStatement(query);
+
+			ps.setString(1,enteredUserName);
+			ps.setString(2,enteredPassword);
+			rs = ps.executeQuery();
+
+			if(rs.next()){
+				main_Page mp = new main_Page();
+				mp.setVisible(true);
+				dispose();
+			}
+			else{
+				JOptionPane.showMessageDialog(null, "Incorrect Username Or Password", "Login Failed", 2);
+			}
+		}catch(Exception evt){
+			evt.printStackTrace();
 		}
 	}
 
@@ -94,7 +109,7 @@ public class login extends JFrame {
 		signinbtn.setBorder(new RoundedBorder(25));
 		signinbtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				signin();
+				signin(e);
 			}
 		});
 
