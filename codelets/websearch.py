@@ -4,7 +4,26 @@ from bs4 import BeautifulSoup
 
 import urllib.request
 
-urlname = "https://en.wikipedia.org/wiki/Car"	#The URL name of the webpage you want to scrap
+#################Getting URLs Part##############################
+
+# try: 
+#     from googlesearch import search 
+# except ImportError:  
+#     print("No module named 'google' found") 
+  
+# # to search 
+# query = "Aadarsh Sahoo IITKGP"
+# i=0
+# URLS = ["None"]*10
+# for j in search(query, tld="com", num=10, stop=3, pause=1): 
+#     print(j)
+#     URLS[i] = j
+#     i+=1 
+
+###########################################################
+
+
+urlname = "https://repl.it/@Moocho99230/Tribute1"	#The URL name of the webpage you want to scrap
 # with urllib.request.urlopen("https://en.wikipedia.org/wiki/Plagiarism") as url:
 url = urllib.request.urlopen(urlname)	#The URL of the webpage you want to scrap
 html = url.read()	#reads the HTML Code
