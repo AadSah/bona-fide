@@ -3,16 +3,24 @@ try:
 except ImportError:  
 	print("No module named 'google' found") 
 
+def URLFinder(line):
 # to search 
-inp = open("sentenceExtractedNew.txt","r+")
+# inp = open("sentenceExtractedNew.txt","r+")
+# inp = open("contentFile.txt","r+")
 
-for line in inp:
-	print(line)
+# for line in inp:
+# print(line)
 # query = "car"
 # i=0
 # URLS = ["None"]*10
-	print("\n")
+	# print("\n")
+	i=0
+	URLs = [None]*3
 	for j in search(line, tld="com", num=10, stop=3, pause=1): 
-		print(j)
+		URLs[i] = j
+		i = i+1
+# print(j)
+
+	return URLs
 # URLS[i] = j
-# i+=1 
+# i+=1

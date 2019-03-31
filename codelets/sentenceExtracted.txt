@@ -1,77 +1,10 @@
-Steven Paul Jobs (/dʒɒbz/; February 24, 1955 – October 5, 2011) was an American business magnate and investor. He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT. Jobs is widely recognized as a pioneer of the microcomputer revolution of the 1970s and 1980s, along with Apple co-founder Steve Wozniak.
-
-Jobs was born in San Francisco, California, and put up for adoption. He was raised in the San Francisco Bay Area. He attended Reed College in 1972 before dropping out that same year, and traveled through India in 1974 seeking enlightenment and studying Zen Buddhism. His declassified FBI report states that he used marijuana and LSD while he was in college, and once told a reporter that taking LSD was "one of the two or three most important things" he had done in his life.
-
-Jobs and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer. Together the duo gained fame and wealth a year later with the Apple II, one of the first highly successful mass-produced personal computers. Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI). This led to development of the unsuccessful Apple Lisa in 1983, followed by the breakthrough Macintosh in 1984, the first mass-produced computer with a GUI. The Macintosh introduced the desktop publishing industry in 1985 with the addition of the Apple LaserWriter, the first laser printer to feature vector graphics. Jobs was forced out of Apple in 1985 after a long power struggle with the company's board and its then-CEO John Sculley. That same year, Jobs took a few of Apple's members with him to found NeXT, a computer platform development company that specialized in computers for higher-education and business markets. In addition, he helped to develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986. The new company was Pixar, which produced Toy Story, the first fully computer-animated film.
-
-Apple merged with NeXT in 1997, and Jobs became CEO of his former company within a few months. He was largely responsible for helping revive Apple, which had been at the verge of bankruptcy. He worked closely with designer Jony Ive to develop a line of products that had larger cultural ramifications, beginning in 1997 with the "Think different" advertising campaign and leading to the iMac, iTunes, iTunes Store, Apple Store, iPod, iPhone, App Store, and the iPad. In 2001, the original Mac OS was replaced with a completely new Mac OS X, based on NeXT's NeXTSTEP platform, giving the OS a modern Unix-based foundation for the first time. Jobs was diagnosed with a pancreatic neuroendocrine tumor in 2003. He died of respiratory arrest related to the tumor at age 56 on October 5, 2011.
-
-
-Contents
-1	Background
-1.1	Biological and adoptive family
-1.2	Birth
-2	Childhood
-3	Homestead High
-4	Reed College
-5	1972–1985
-5.1	Pre-Apple
-5.2	Apple (1976–1985)
-6	1985–1997
-6.1	NeXT computer
-6.2	Pixar and Disney
-6.3	Family
-7	1997–2011
-7.1	Return to Apple
-7.2	Health issues
-7.3	Resignation
-7.4	Death
-8	Portrayals and coverage in books, film, and theater
-9	Innovations and designs
-9.1	Apple II
-9.2	Apple Lisa
-9.3	Macintosh
-9.4	NeXT Computer
-9.5	iMac
-9.6	iTunes
-9.7	iPod
-9.8	iPhone
-9.9	iPad
-10	Honors and awards
-11	See also
-12	References
-13	External links
-Background
-Biological and adoptive family
-Steven Paul Jobs was born on February 24, 1955, to Abdulfattah Jandali and Joanne Schieble, and was adopted by Paul and Clara Jobs (nee Hagopian).[2]
-
-His biological father, Abdulfattah "John" (al-)Jandali (Arabic: عبد الفتاح الجندلي) (b. 1931), grew up in Homs, Syria, and was born into an Arab Muslim household.[3] Jandali is the son of a self-made millionaire who did not go to college and a mother who was a traditional housewife.[3] While an undergraduate at the American University of Beirut, Lebanon, he was a student activist and spent time in jail for his political activities.[3] Although Jandali initially wanted to study law, he eventually decided to study economics and political science.[3] He pursued a PhD in the latter subject at the University of Wisconsin, where he met Joanne Carole Schieble (b. 1932), a Catholic of Swiss and German descent, who grew up on a farm in Wisconsin.[3][4][page needed][5] As a doctoral candidate, Jandali was a teaching assistant for a course Schieble was taking, although both were the same age.[6] Mona Simpson, Jobs's biological sister, notes that her maternal grandparents were not happy that their daughter was dating Jandali: "it wasn't that he was Middle-Eastern so much as that he was a Muslim. But there are a lot of Arabs in Michigan and Wisconsin. So it's not that unusual."[6] Walter Isaacson, Steve Jobs's official biographer, additionally states that Schieble's father "threatened to cut Joanne off completely" if she continued the relationship.[4][page needed]
-
-Jobs's adoptive father, Paul Reinhold Jobs (1922–1993), grew up in a Calvinist household,[7][page needed] the son of an "alcoholic and sometimes abusive" father.[4][page needed] The family lived on a farm in Germantown, Wisconsin.[4][page needed][7][page needed] Paul bore an ostensible resemblance to James Dean; he had tattoos, dropped out of high school, and traveled around the Midwest for several years during the 1930s looking for work.[4][page needed][7][page needed] He eventually joined the United States Coast Guard as an engine-room machinist.[7][page needed] After World War II, Paul Jobs decided to leave the Coast Guard when his ship docked in San Francisco.[7][page needed] He made a bet that he would find his wife in San Francisco and promptly went on a blind date with Clara Hagopian (1924–1986). They were engaged ten days later and married in 1946.[4][page needed] Clara, the daughter of Armenian immigrants, grew up in San Francisco and had been married before, but her husband had been killed in the war. After a series of moves, Paul and Clara settled in San Francisco's Sunset District in 1952.[4][page needed] As a hobby, Paul Jobs rebuilt cars, but his career was as a "repo man", which suited his "aggressive, tough personality."[7][page needed] Meanwhile, their attempts to start a family were halted after Clara had an ectopic pregnancy, leading them to consider adoption in 1955.[4][page needed]
-
-Birth
-"Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form."
-—Steve Jobs, 1995. From the documentary, Steve Jobs: The Lost Interview.[8]
-Schieble became pregnant with Jobs in 1954 when she and Jandali spent the summer with his family in Homs, Syria. Jandali has stated that he "was very much in love with Joanne ... but sadly, her father was a tyrant, and forbade her to marry me, as I was from Syria. And so she told me she wanted to give the baby up for adoption."[9] Jobs told his official biographer that Schieble's father was dying at the time, Schieble did not want to aggravate him, and both believed that at 23 they were too young to marry.[4][page needed] In addition, as there was a strong stigma against bearing a child out of wedlock and raising it as a single mother, and as abortions were illegal and dangerous, adoption was the only option women had in the United States in 1954.[7][page needed] According to Jandali, Schieble deliberately did not involve him in the process: "without telling me, Joanne upped and left to move to San Francisco to have the baby without anyone knowing, including me ... she did not want to bring shame onto the family and thought this was the best for everyone."[9] Schieble put herself in the care of a "doctor who sheltered unwed mothers, delivered their babies, and quietly arranged closed adoptions."[4][page needed]
-
-Schieble gave birth to Jobs on February 24, 1955, in San Francisco and chose an adoptive couple for him that was "Catholic, well-educated, and wealthy."[10][page needed] The couple changed their mind, however, and decided to adopt a girl instead.[10][page needed] The baby boy was then placed with the Bay Area blue collar couple Paul and Clara Jobs, neither of whom had a college education, and Schieble refused to sign the adoption papers.[4][page needed] She then took the matter to court in an attempt to have her baby placed with a different family[10][page needed] and only consented to releasing the baby to Paul and Clara after they promised that he would attend college.[4][page needed] When Steve Jobs was in high school, his mother Clara admitted to his girlfriend, 17-year-old Chrisann Brennan, that she "was too frightened to love [Steve] for the first six months of his life ... I was scared they were going to take him away from me. Even after we won the case, Steve was so difficult a child that by the time he was two I felt we had made a mistake. I wanted to return him."[10][page needed] When Chrisann shared his mother's comment with Steve, he stated that he was already aware of that[10][page needed] and would later say he was deeply loved and indulged by Paul and Clara.[11][page needed] Many years later, Steve Jobs's wife Laurene also noted that "he felt he had been really blessed by having the two of them as parents."[11][page needed] Jobs would become upset when Paul and Clara were referred to as "adoptive parents" as they "were my parents 1,000%."[4][page needed] With regard to his biological parents, Jobs referred to them as "my sperm and egg bank. That's not harsh, it's just the way it was, a sperm bank thing, nothing more."[4][page needed] Jandali has also stated that "I really am not his dad. Mr. and Mrs. Jobs are, as they raised him. And I don't want to take their place."[9]
-
-Childhood
-"I always thought of myself as a humanities person as a kid, but I liked electronics … then I read something that one of my heroes, Edwin Land of Polaroid, said about the importance of people who could stand at the intersection of humanities and sciences, and I decided that's what I wanted to do."
-—Steve Jobs[4][page needed]
-Paul and Clara adopted Jobs's sister Patricia in 1957[4][page needed] and the family moved to Mountain View, California, in 1961.[7][page needed] It was during this time that Paul built a workbench in his garage for his son in order to "pass along his love of mechanics."[4][page needed] Jobs, meanwhile, admired his father's craftsmanship "because he knew how to build anything. If we needed a cabinet, he would build it. When he built our fence, he gave me a hammer so I could work with him ... I wasn't that into fixing cars ... but I was eager to hang out with my dad."[4][page needed] By the time he was ten, Jobs was deeply involved in electronics and befriended many of the engineers who lived in the neighborhood.[7][page needed] He had difficulty making friends with children his own age, however, and was seen by his classmates as a "loner."[7][page needed]
-
-Home of Paul and Clara Jobs, on Crist Drive in Los Altos, California.
-Childhood home of Paul, Clara, and Steve Jobs on Crist Drive in Los Altos, California that served as the original site of Apple Computer. The home was added to a list of historic Los Altos sites in 2013.[12]
-Jobs had difficulty functioning in a traditional classroom, tended to resist authority figures, frequently misbehaved, and was suspended a few times.[7][page needed] Clara had taught him to read as a toddler, and Jobs stated that he was "pretty bored in school and [had] turned into a little terror... you should have seen us in the third grade, we basically destroyed the teacher."[7][page needed] He frequently played pranks on others at Monta Loma Elementary school in Mountain View.[4][page needed] His father Paul (who was abused as a child) never reprimanded him, however, and instead blamed the school for not placing enough challenge on his brilliant son.[4][page needed]
-
-Jobs would later credit his fourth grade teacher, Imogene "Teddy" Hill, with turning him around: "She taught an advanced fourth grade class and it took her about a month to get hip to my situation. She bribed me into learning. She would say, 'I really want you to finish this workbook. I'll give you five bucks if you finish it.' That really kindled a passion in me for learning things! I learned more that year than I think I learned in any other year in school. They wanted me to skip the next two years in grade school and go straight to junior high to learn a foreign language but my parents very wisely wouldn't let it happen."[7][page needed] Jobs skipped the fifth grade and transferred to the sixth grade at Crittenden Middle School in Mountain View[7][page needed] where he became a "socially awkward loner".[4][page needed] Jobs "was often bullied" and gave his parents an ultimatum: they had to either take him out of Crittenden or he would drop out of school.
-
-Though the Jobs family was not well off, they used all their savings in 1967 to buy a new home, which would allow Jobs to change schools.[7][page needed] The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California,[4][page needed] and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home.[7][page needed] The house was declared a historic site in 2013 as it was the first site for Apple Computer[12] and is now owned by Patty and occupied by Jobs's step-mother Marilyn.[13]
-
-When he was 13 in 1968, Jobs was given a summer job by Bill Hewlett (of Hewlett-Packard) after Jobs cold-called him to ask for parts for an electronics project: "He didn't know me at all, but he ended up giving me some parts and he got me a job that summer working at Hewlett-Packard on the line, assembling frequency counters...well, assembling may be too strong. I was putting in screws. It didn't matter; I was in heaven."[7][page needed]
-
-Bill Fernandez, a fellow electronics hobbyist who was in Jobs's grade at Cupertino Junior High, was his first friend after the 1967 move. Fernandez later commented that "for some reason the kids in the eighth grade didn't like [Jobs] because they thought he was odd. I was one of his few friends." Fernandez eventually introduced Jobs to 18-year-old electronics whiz and Homestead High alum Steve Wozniak, who lived across the street from Fernandez.
-
-Homestead High
-The location of the Los Altos home meant that Jobs would be able to attend nearby Homestead High School, which had strong ties to Silicon Valley.[4][page needed] He began his first year there in late 1968 along with Fernandez.[7][page needed] Neither Jobs nor Fernandez (whose father was a lawyer) came from engineering households and thus decided to enroll in John McCollum's "Electronics 1."[7][page needed] McCollum and the rebellious Jobs (who had grown his hair long and become involved in the growing counterculture) would eventually clash and Jobs began to lose interest in the class. He also had no interest in sports and would later say that he didn't have what it took to "be a jock. I was always a loner."[7][page needed]
+Python is an interpreted, high-level, general-purpose programming language.
+Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
+It provides constructs that enable clear programming on both small and large scales.
+[26]Van Rossum led the language community until stepping down as leader in July 2018.
+[27][28]Pythonfeatures a dynamic type system and automatic memory management.
+It supports multiple programming paradigms, including object-oriented, imperative, functional and procedural.
+It also has a comprehensive standard library.
+[29]Pythoninterpreters are available for many operating systems.
+CPython, the reference implementation of Python, is open source software[30] and has a community-based development model, as do nearly all of Python's other implementations.
+Python and CPython are managed by the non-profit Python Software Foundation.
