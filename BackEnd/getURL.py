@@ -16,9 +16,12 @@ def URLFinder(line):
 # URLS = ["None"]*10
 	# print("\n")
 	i=0
-	URLs = [None]*3
-	for j in search(line, tld="com", num=10, stop=3, pause=1): 
-		URLs[i] = j
+	# URLs = [None]*3
+	URLs = None
+	# for j in search(line, tld="com", num=10, stop=3, pause=1):
+	for j in search(line, tld="com", num=10, stop=1, pause=1): 
+		# URLs[i] = j
+		URLs = j
 		i = i+1
 # print(j)
 
