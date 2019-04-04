@@ -221,7 +221,7 @@ public class Search extends javax.swing.JFrame {
         }
         else{
             try {
-                File myFile = new File("G:\\MyTestFile.txt");
+                File myFile = new File("MyTestFile.txt");
                 // check if file exist, otherwise create the file before writing
                 if (!myFile.exists()) {
                     myFile.createNewFile();
