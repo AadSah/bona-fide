@@ -3,6 +3,7 @@ import webSearch
 import compareContent
 
 content = open("fileInputContent.txt","r+")
+# matched = open("matchedSources.txt","w+")
 linecount=0
 plagflag=0
 
@@ -30,3 +31,4 @@ plagper = (plagflag/linecount)*100
 # print("Percentage Plagiarised = "+ str(plagper) +"%\n")
 print(str(plagper))
 # print("Percentage Unique = "+ str(100-plagper) +"%\n\n")
+content.close()
