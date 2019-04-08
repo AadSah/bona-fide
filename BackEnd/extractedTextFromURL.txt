@@ -1,347 +1,627 @@
-Western Wear for Women, Ladies Fashion Wear Online
-JavaScript seems to be disabled in your browser.
-For the best experience on our site, be sure to turn on Javascript in your browser.
-The wishlist name can't be left blank
-Skip to Content
-Create an AccountToggle Nav
-Menu
-new in
-lookbook
-dresses
-Dresses
-gowns
-jumpsuits
-Tunics
-tops
-Tops
-Jackets & Shrugs
-bottoms
-accessories
-Jewellery
-Scarves & Stoles
-Belts
-Bags
-Footwear
-Sunglasses
-sale
-blog
-Account
-Compare Products
+History of the electric vehicle - Wikipedia
+History of the electric vehicle
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+This article is about history of all-electric vehicles. For the history of plug-in hybrid electric vehicles, hybrid electric vehicles that use plug-in rechargeable batteries, see history of plug-in hybrids.
+Modern mass market all-electric passenger cars. Clockwise from upper left: Nissan Leaf, Tesla Model S, BMW i3 and Tesla Roadster
+Electric vehicles first appeared in the mid-19th century. An electric vehicle held the vehicular land speed record until around 1900. The high cost, low top speed, and short range of battery electric vehicles, compared to later internal combustion engine vehicles, led to a worldwide decline in their use; although electric vehicles have continued to be used in the form of electric trains and other niche uses.
+At the beginning of the 21st century, interest in electric and other alternative fuel vehicles has increased due to growing concern over the problems associated with hydrocarbon-fueled vehicles, including damage to the environment caused by their emissions, and the sustainability of the current hydrocarbon-based transportation infrastructure as well as improvements in electric vehicle technology. Since 2010, combined sales of all-electric cars and utility vans achieved 1 million units delivered globally in September 2016,[1] and combined global sales of light-duty all-electrics and plug-in hybrids passed 5 million in December 2018.[2][3]
+Contents
+1 Early history
+1.1 Electric model cars
+1.2 Electric locomotives
+2 First practical electric cars
+3 Golden age
+4 Decline
+5 1960s: Revival of interest
+6 2000s: Modern highway-capable electric cars
+7 2010s to present
+7.1 Electric bicycle
+8 Select historical production vehicles
+9 See also
+10 References
+11 External links
+Early history[edit]
+Electric model cars[edit]
+The invention of the first model electric vehicle is attributed to various people.[4] In 1828, Ányos Jedlik invented an early type of electric motor, created a small model car powered by his new motor. In 1834, Vermont blacksmith Thomas Davenport built a similar contraption which operated on a short, circular, electrified track.[5] In 1834, Professor Sibrandus Stratingh of Groningen, the Netherlands and his assistant Christopher Becker created a small-scale electrical car, powered by non-rechargeable primary cells.[6]
+Electric locomotives[edit]
+The first known electric locomotive was built in 1837, in Scotland by chemist Robert Davidson of Aberdeen. It was powered by galvanic cells (batteries). Davidson later built a larger locomotive named Galvani, exhibited at the Royal Scottish Society of Arts Exhibition in 1841. The 7,100-kilogram (7-long-ton) vehicle had two direct-drive reluctance motors, with fixed electromagnets acting on iron bars attached to a wooden cylinder on each axle, and simple commutators. It hauled a load of 6,100 kilograms (6 long tons) at 6.4 kilometres per hour (4 mph) for a distance of 2.4 km (1.5 miles). It was tested on the Edinburgh and Glasgow Railway in September of the following year, but the limited power from batteries prevented its general use.
+It was destroyed by railway workers, who saw it as a threat to their security of employment.[7][8][9][10]
+Between 1832 and 1839, Scottish inventor Robert Anderson also invented a crude electrical carriage.[11] A patent for the use of rails as conductors of electric current was granted in England in 1840, and similar patents were issued to Lilley and Colten in the United States in 1847.[12]
+First practical electric cars[edit]
+Electric car built by Thomas Parker, photo from 1895
+Flocken Elektrowagen, 1888 (reconstruction, 2011)
+Columbia Electric's (1896-99) "Victoria" electric cab on Pennsylvania Ave., Washington D.C., seen from Lafayette Park in 1905.
+German electric car, 1904, with the chauffeur on top
+Rechargeable batteries that provided a viable means for storing electricity on board a vehicle did not come into being until 1859, with the invention of the lead–acid battery by French physicist Gaston Planté.[13][14] Camille Alphonse Faure, another French scientist, significantly improved the design of the battery in 1881; his improvements greatly increased the capacity of such batteries and led directly to their manufacture on an industrial scale.[15]
+An early electric-powered two-wheel cycle was put on display at the 1867 World Exposition in Paris by the Austrian inventor Franz Kravogl, but it was regarded as a curiosity and could not drive reliably in the street.[16] Another cycle, this time with three wheels, was tested along a Paris street in April 1881 by French inventor Gustave Trouvé [17]
+English inventor Thomas Parker, who was responsible for innovations such as electrifying the London Underground, overhead tramways in Liverpool and Birmingham, and the smokeless fuel coalite, built the first production electric car in London in 1884, using his own specially designed high-capacity rechargeable batteries.[18] Parker's long-held interest in the construction of more fuel-efficient vehicles led him to experiment with electric vehicles. He also may have been concerned about the malign effects smoke and pollution were having in London.[19]
+Production of the car was in the hands of the Elwell-Parker Company, established in 1882 for the construction and sale of electric trams. The company merged with other rivals in 1888 to form the Electric Construction Corporation; this company had a virtual monopoly on the British electric car market in the 1890s. The company manufactured the first electric 'dog cart' in 1896.[20]
+France and the United Kingdom were the first nations to support the widespread development of electric vehicles.[11] The first electric car in Germany was built by the engineer Andreas Flocken in 1888.[21]
+Electric trains were also used to transport coal out of mines, as their motors did not use up precious oxygen. Before the pre-eminence of internal combustion engines, electric automobiles also held many speed and distance records.[22] Among the most notable of these records was the breaking of the 100 km/h (62 mph) speed barrier, by Camille Jenatzy on 29 April 1899 in his 'rocket-shaped' vehicle Jamais Contente, which reached a top speed of 105.88 km/h (65.79 mph). Also notable was Ferdinand Porsche's design and construction of an all-wheel drive electric car, powered by a motor in each hub, which also set several records in the hands of its owner E.W. Hart.
+The first electric car in the United States was developed in 1890-91 by William Morrison of Des Moines, Iowa; the vehicle was a six-passenger wagon capable of reaching a speed of 23 kilometres per hour (14 mph). It was not until 1895 that consumers began to devote attention to electric vehicles, after A.L. Ryker introduced the first electric tricycles to the U.S.[23], by which point Europeans had been making use of electric tricycles, bicycles, and cars for almost 15 years.
+Golden age[edit]
+Interest in motor vehicles increased greatly in the late 1890s and early 1900s.
+Electric battery-powered taxis became available at the end of the 19th century. In London, Walter C. Bersey designed a fleet of such cabs and introduced them to the streets of London in 1897. They were soon nicknamed "Hummingbirds" due to the idiosyncratic humming noise they made.[24] In the same year in New York City, the Samuel's Electric Carriage and Wagon Company began running 12 electric hansom cabs.[25] The company ran until 1898 with up to 62 cabs operating until it was reformed by its financiers to form the Electric Vehicle Company.[26]
+Thomas Edison and an electric car in 1913
+Electric vehicles had a number of advantages over their early-1900s competitors. They did not have the vibration, smell, and noise associated with gasoline cars. They also did not require gear changes. (While steam-powered cars also had no gear shifting, they suffered from long start-up times of up to 45 minutes on cold mornings.) The cars were also preferred because they did not require a manual effort to start, as did gasoline cars which featured a hand crank to start the engine.
+Electric cars found popularity among well-heeled customers who used them as city cars, where their limited range proved to be even less of a disadvantage.
+Electric cars were often marketed as suitable vehicles for women drivers due to their ease of operation; in fact, early electric cars were stigmatized by the perception that they were "women's cars", leading some companies to affix radiators to the front to disguise the car's propulsion system.[citation needed]
+1912 Detroit Electric advertisement
+Acceptance of electric cars was initially hampered by a lack of power infrastructure, but by 1912, many homes were wired for electricity, enabling a surge in the popularity of the cars. In the United States by the turn of the century, 40 percent of automobiles were powered by steam, 38 percent by electricity, and 22 percent by gasoline. A total of 33,842 electric cars were registered in the United States, and the U.S. became the country where electric cars had gained the most acceptance.[27] Most early electric vehicles were massive, ornate carriages designed for the upper-class customers that made them popular. They featured luxurious interiors and were replete with expensive materials. Sales of electric cars peaked in the early 1910s.
+In order to overcome the limited operating range of electric vehicles, and the lack of recharging infrastructure, an exchangeable battery service was first proposed as early as 1896.[28] The concept was first put into practice by Hartford Electric Light Company through the GeVeCo battery service and initially available for electric trucks. The vehicle owner purchased the vehicle from General Vehicle Company (GVC, a subsidiary of the General Electric Company) without a battery and the electricity was purchased from Hartford Electric through an exchangeable battery. The owner paid a variable per-mile charge and a monthly service fee to cover maintenance and storage of the truck. Both vehicles and batteries were modified to facilitate a fast battery exchange. The service was provided between 1910 and 1924 and during that period covered more than 6 million miles. Beginning in 1917 a similar successful service was operated in Chicago for owners of Milburn Wagon Company cars who also could buy the vehicle without the batteries.[28]
+Decline[edit]
+East German electric vans of the Deutsche Post in 1953
+After enjoying success at the beginning of the 20th century, the electric car began to lose its position in the automobile market. A number of developments contributed to this situation. By the 1920s an improved road infrastructure required vehicles with a greater range than that offered by electric cars. Worldwide discoveries of large petroleum reserves led to the wide availability of affordable gasoline, making gas-powered cars cheaper to operate over long distances. Electric cars were limited to urban use by their slow speed (no more than 24–32 km/h or 15–20 mph[27]) and low range (50–65 km or 30–40 miles[27]), and gasoline cars were now able to travel farther and faster than equivalent electrics.
+Gasoline cars became even easier to operate thanks to the invention of the electric starter by Charles Kettering in 1912,[29] which eliminated the need of a hand crank for starting a gasoline engine, and the noise emitted by ICE cars became more bearable thanks to the use of the muffler, which Milton O. Reeves and Marshall T. Reeves had invented in 1897. Finally, the initiation of mass production of gas-powered vehicles by Henry Ford brought their price down.[30] By contrast, the price of similar electric vehicles continued to rise; by 1912, an electric car sold for almost double the price of a gasoline car.[11]
+The Henney Kilowatt, a 1961 production electric car
+Most electric car makers stopped production at some point in the 1910s. Electric vehicles became popular for certain applications where their limited range did not pose major problems. Forklift trucks were electrically powered when they were introduced by Yale in 1923.[31] In Europe, especially the United Kingdom, milk floats were powered by electricity, and for most of the 20th century the majority of the world's battery electric road vehicles were British milk floats.[32] Electric golf carts were produced by Lektro as early as 1954.[33] By the 1920s, the early heyday of electric cars had passed, and a decade later, the electric automobile industry had effectively disappeared. Michael Brian examines the social and technological reasons for the failure of electric cars in his book Taking Charge: The Electric Automobile in America.[34]
+Years passed without a major revival in the use of electric cars. Fuel-starved European countries fighting in World War II experimented with electric cars such as the British milk floats and the French Breguet Aviation car, but overall, while ICE development progressed at a brisk pace, electric vehicle technology stagnated. In the late 1950s, Henney Coachworks and the National Union Electric Company, makers of Exide batteries, formed a joint venture to produce a new electric car, the Henney Kilowatt, based on the French Renault Dauphine. The car was produced in 36-volt and 72-volt configurations; the 72-volt models had a top speed approaching 96 km/h (60 mph) and could travel for nearly an hour on a single charge. Despite the Kilowatt's improved performance with respect to previous electric cars, consumers found it[citation needed] too expensive compared to equivalent gasoline cars of the time, and production ended in 1961.
+1960s: Revival of interest[edit]
+In 1959, American Motors Corporation (AMC) and Sonotone Corporation announced a joint research effort to consider producing an electric car powered by a "self-charging" battery.[35] AMC had a reputation for innovation in economical cars while Sonotone had technology for making sintered plate nickel-cadmium batteries that could be recharged rapidly and weighed less than traditional lead-acid versions.[36] That same year, Nu-Way Industries showed an experimental electric car with a one-piece plastic body that was to begin production in early 1960.[35]
+In the mid 1960s a few battery-electric concept cars appeared, such as the Scottish Aviation Scamp (1965),[37] and an electric version of General Motors gasoline car, the Electrovair (1966).[38] None of them entered production. The 1966 Enfield 8000 did make it into small-scale production, 112 were eventually produced.[39]In 1967, AMC partnered with Gulton Industries to develop a new battery based on lithium and a speed controller designed by Victor Wouk.[40] A nickel-cadmium battery supplied power to an all-electric 1969 Rambler American station wagon.[40] Other "plug-in" experimental AMC vehicles developed with Gulton included the Amitron (1967) and the similar Electron (1977).
+Three Lunar Roving Vehicles are currently parked on the Moon
+On 31 July 1971, an electric car received the unique distinction of becoming the first manned vehicle to drive on the Moon; that car was the Lunar Roving Vehicle, which was first deployed during the Apollo 15 mission. The "Moon buggy" was developed by Boeing and GM subsidiary Delco Electronics (co-founded by Kettering)[29]
+featured a DC drive motor in each wheel, and a pair of 36-volt silver-zinc potassium hydroxide non-rechargeable batteries.
+After years outside the limelight, the energy crises of the 1970s and 1980s brought about renewed interest in the perceived independence electric cars had from the fluctuations of the hydrocarbon energy market. General Motors created a concept car of another of their gasoline cars, the Electrovette (1976). At the 1990 Los Angeles Auto Show, General Motors President Roger Smith unveiled the GM Impact electric concept car, along with the announcement that GM would build electric cars for sale to the public.
+The Honda EV Plus, one of the cars introduced as a result of the CARB ZEV mandate
+In the early 1990s, the California Air Resources Board (CARB), the government of California's "clean air agency", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.[41][42] In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV.
+The automakers were accused of pandering to the wishes of CARB in order to continue to be allowed to sell cars in the lucrative Californian market, while failing to adequately promote their electric vehicles in order to create the impression that the consumers were not interested in the cars, all the while joining oil industry lobbyists in vigorously protesting CARB's mandate.[42] GM's program came under particular scrutiny; in an unusual move, consumers were not allowed to purchase EV1s, but were instead asked to sign closed-end leases, meaning that the cars had to be returned to GM at the end of the lease period, with no option to purchase, despite leasee interest in continuing to own the cars.[42] Chrysler, Toyota, and a group of GM dealers sued CARB in Federal court, leading to the eventual neutering of CARB's ZEV Mandate.[citation needed]
+After public protests by EV drivers' groups upset by the repossession of their cars, Toyota offered the last 328 RAV4-EVs for sale to the general public during six months, up until 22 November 2002. Almost all other production electric cars were withdrawn from the market and were in some cases seen to have been destroyed by their manufacturers.[42] Toyota continues to support the several hundred Toyota RAV4-EV in the hands of the general public and in fleet usage. GM famously de-activated the few EV1s that were donated to engineering schools and museums.[43]
+Throughout the 1990s, interest in fuel-efficient or environmentally friendly cars declined among consumers in the United States, who instead favored sport utility vehicles, which were affordable to operate despite their poor fuel efficiency thanks to lower gasoline prices. Domestic U.S. automakers chose to focus their product lines around the truck-based vehicles, which enjoyed larger profit margins than the smaller cars which were preferred in places like Europe or Japan.
+Th!nk City and Buddy in Oslo, Norway
+The General Motors EV1, one of the cars introduced due to the California Air Resources Board mandate, had a range of 260 km (160 miles) with NiMH batteries in 1999.
+Most electric vehicles on the world roads are low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on the world roads in 2011.[44] As of July 2006[update], there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.[45] North America's top selling NEV is the Global Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid 2014.[46] The world's two largest NEV markets in 2011 were the United States, with 14,737 units sold, and France, with 2,231 units.[47] Other micro electric cars sold in Europe was the Kewet, since 1991, and replaced by the Buddy, launched in 2008.[48] Also the Th!nk City was launched in 2008 but production was halted due to financial difficulties.[49] Production restarted in Finland in December 2009.[50] The Th!nk was sold in several European countries and the U.S.[51][52]
+In June 2011 Think Global filed for bankruptcy and production was halted.[53] Worldwide sales reached 1,045 units by March 2011.[54] A total of 200,000 low-speed small electric cars were sold in China in 2013, most of which are powered by lead-acid batteries. These electric vehicles are not considered by the government as new energy vehicles due to safety and environmental concerns, and consequently, do not enjoy the same benefits as highway legal plug-in electric cars.[55]
+2000s: Modern highway-capable electric cars[edit]
+California electric car maker Tesla Motors began development in 2004 on the Tesla Roadster, which was first delivered to customers in 2008.[56] The Roadster was the first highway legal serial production all-electric car to use lithium-ion battery cells, and the first production all-electric car to travel more than 320 km (200 miles) per charge.[57] Since 2008, Tesla sold approximately 2,450 Roadsters in over 30 countries through December 2012.[58] Tesla sold the Roadster until early 2012, when its supply of Lotus Elise gliders ran out, as its contract with Lotus Cars for 2,500 gliders expired at the end of 2011.[59][60] Tesla stopped taking orders for the Roadster in the U.S. market in August 2011,[61][62] and the 2012 Tesla Roadster was sold in limited numbers only in Europe, Asia and Australia.[63][64]
+The next Tesla vehicle, the Model S, was released in the U.S. on 22 June 2012[65] and the first delivery of a Model S to a retail customer in Europe took place on 7 August 2013.[66] Deliveries in China began on 22 April 2014.[67] The next model was the Tesla Model X. In November 2014 Tesla delayed one more time the start of deliveries to retail customers, and announced the company expects Model X deliveries to begin in the third quarter of 2015.[68]
+The Mitsubishi i-MiEV was launched in Japan in 2009
+The Mitsubishi i-MiEV was launched in Japan for fleet customers in July 2009, and for individual customers in April 2010,[69][70][71] followed by sales to the public in Hong Kong in May 2010, and Australia in July 2010 via leasing.[72][73] The i-MiEV was launched in Europe in December 2010, including a rebadged version sold in Europe as Peugeot iOn and Citroën C-Zero.[74][75] The market launch in the Americas began in Costa Rica in February 2011, followed by Chile in May 2011.[76][77] Fleet and retail customer deliveries in the U.S. and Canada began in December 2011.[78][79][80] Accounting for all vehicles of the iMiEV brand, Mitsubishi reports around 27,200 units sold or exported since 2009 through December 2012, including the minicab MiEVs sold in Japan, and the units rebadged and sold as Peugeot iOn and Citroën C-Zero in the European market.[81]
+Senior leaders at several large automakers, including Nissan and General Motors, have stated that the Roadster was a catalyst which demonstrated that there is pent-up consumer demand for more efficient vehicles. In an August 2009 edition of The New Yorker, GM vice-chairman Bob Lutz was quoted as saying, "All the geniuses here at General Motors kept saying lithium-ion technology is 10 years away, and Toyota agreed with us – and boom, along comes Tesla. So I said, 'How come some tiny little California startup, run by guys who know nothing about the car business, can do this, and we can't?' That was the crowbar that helped break up the log jam."[82]
+2010s to present[edit]
+The first Nissan Leaf delivered in the U.S. went to a customer in the San Francisco Bay Area
+The Nissan Leaf, introduced in Japan and the United States in December 2010, became the first modern all-electric, zero tailpipe emission five door family hatchback to be produced for the mass market from a major manufacturer.[83][84] As of January 2013[update], the Leaf is also available in Australia, Canada and 17 European countries.[85]
+The Better Place network was the first modern commercial deployment of the battery swapping model. The Renault Fluence Z.E. was the first mass production electric car enable with switchable battery technology and sold for the Better Place network in Israel and Denmark.[86] Better Place launched its first battery-swapping station in Israel, in Kiryat Ekron, near Rehovot in March 2011.
+The battery exchange process took five minutes.[87] As of December 2012[update], there were 17 battery switch stations fully operational in Denmark enabling customers to drive anywhere across the country in an electric car.[88] By late 2012 the company began to suffer financial difficulties, and decided to put on hold the roll out in Australia and reduce its non-core activities in North America, as the company decided to concentrate its resources on its two existing markets.[89][90][91] On 26 May 2013, Better Place filed for bankruptcy in Israel.[92] The company's financial difficulties were caused by the high investment required to develop the charging and swapping infrastructure, about US$850 million in private capital, and a market penetration significantly lower than originally predicted by Shai Agassi. Less than 1,000 Fluence Z.E. cars were deployed in Israel and around 400 units in Denmark.[93][94]
+The Smart electric drive, Wheego Whip LiFe, Mia electric, Volvo C30 Electric, and the Ford Focus Electric were launched for retail customers during 2011. The BYD e6, released initially for fleet customers in 2010, began reatail sales in Shenzhen, China in October 2011.[95] The Bolloré Bluecar was released in December 2011 and deployed for use in the Autolib' carsharing service in Paris.[96] Leasing to individual and corporate customers began in October 2012 and is limited to the Île-de-France area.[97] In February 2011, the Mitsubishi i MiEV became the first electric car to sell more than of more than 10,000 units, including the models badged in Europe as Citroën C-Zero and Peugeot. The record was officially registered by Guinness World Records. Several months later, the Nissan Leaf overtook the i MiEV as the best selling all-electric car ever,[98] and by February 2013 global sales of the Leaf reached the 50,000 unit mark.[85]
+Models released to the market in 2012 and 2013 include the BMW ActiveE, Coda, Renault Fluence Z.E., Tesla Model S, Honda Fit EV, Toyota RAV4 EV, Renault Zoe, Roewe E50, Mahindra e2o, Chevrolet Spark EV, Mercedes-Benz SLS AMG Electric Drive, Fiat 500e, Volkswagen e-Up!, BMW i3, and Kandi EV. Toyota released the Scion iQ EV in the U.S. (Toyota eQ in Japan) in 2013. The car production is limited to 100 units. The first 30 units were delivered to the University of California, Irvine in March 2013 for use in its Zero Emission Vehicle-Network Enabled Transport (ZEV-NET) carsharing fleet. Toyota announced that 90 out of the 100 vehicles produced globally will be placed in carsharing demonstration projects in the United States and the rest in Japan.[99]
+The Coda sedan went out of production in 2013, after selling only about 100 units in California. Its manufacturer, Coda Automotive, filed for Chapter 11 bankruptcy protection on 1 May 2013. The company stated that it expects to emerge from the bankruptcy process to focus on energy storage solutions as it has decided to abandon car manufacturing.[100]
+The Tesla Model S ranked as the top selling plug-in electric car in
+North America during the first quarter of 2013 with 4,900 cars sold, ahead of the Nissan Leaf (3,695).[101] European retail deliveries of the Tesla Model S began in Oslo in August 2013,[102] and during its first full month in the market, the Model S ranked as the top selling car in Norway with 616 units delivered, representing a market share of 5.1% of all the new cars sold in the country in September 2013, becoming the first electric car to top the new car sales ranking in any country, and contributing to a record all-electric car market share of 8.6% of new car sales during that month.[103][104] In October 2013, an electric car was the best selling car in the country for a second month in a row. This time was the Nissan Leaf with 716 units sold, representing a 5.6% of new car sales that month.[105][106]
+Retail deliveries of the BMW i3 began in Europe in November 2013[107] The i3 ranked as the third best selling all-electric car in 2014.[108]
+The Renault–Nissan Alliance reached global sales of 100,000 all-electric vehicles in July 2013.[109] The 100,000th customer was a U.S. student who bought a Nissan Leaf.[110] In mid January 2014, global sales of the Nissan Leaf reached the 100,000 unit milestone, representing a 45% market share of worldwide pure electric vehicles sold since 2010. The 100,000th car was delivered to a British customer.[111]
+As of June 2014[update], there were over 500,000 plug-in electric passenger cars and utility vans in the world, with the U.S. leading plug-in electric car sales with a 45% share of global sales.[112][113] In September 2014, sales of plug-in electric cars in the United States reached the 250,000 unit milestone.[114] Global cumulative sales of the Tesla Model S passed the 50,000 unit milestone in October 2014.[115] In November 2014 the Renault–Nissan Alliance reached 200,000 all-electric vehicles delivered globally, representing a 58% share of the global light-duty all-electric market segment.[116]
+The world's top selling all-electric cars in 2014 were the Nissan Leaf (61,507), Tesla Model S (31,655), BMW i3 (16,052), and the Renault Zoe (11,323). Accounting for plug-in hybrids, the Leaf and the Model S also ranked first and second correspondinly among the world's top 10 selling plug-in electric cars.[108] All-electric models released to the retail customers in 2014 include the BMW Brilliance Zinoro 1E, Chery eQ, Geely-Kandi Panda EV, Zotye Zhidou E20, Kia Soul EV, Volkswagen e-Golf, Mercedes-Benz B-Class Electric Drive, and Venucia e30.
+Global sales of the Renault Zoe, released in 2012, achieved the 50,000 unit milestone in June 2016.[117]
+General Motors unveiled the Chevrolet Bolt EV concept car
+at the 2015 North American International Auto Show.[118] The Bolt is scheduled for availability in late 2016 as a model year 2017.[119] GM anticipates the Bolt will deliver an all-electric range more than 320 km (200 miles), with pricing starting at US$37,500 before any applicable government incentives.[120] The European version, marketed as the Opel Ampera-e, will go into production in 2017.[121]
+In May 2015, global sales of highway legal all-electric passenger cars and light utility vehicles passed the 500,000 unit milestone, accounting for sales since 2008. Out these, Nissan accounts for about 35%, Tesla Motors about 15%, and Mitsubishi about 10%.[122] Also in May 2015, the Renault Zoe and the BMW i3 passed the 25,000 unit global sales milestone.[123] In June 2015, worldwide sales of the Model S passed the 75,000 unit milestone in June 2015.[115]
+By early June 2015, the Renault–Nissan Alliance continued as the leading all-electric vehicle manufacturer with global sales of over 250,000 pure electric vehicles representing about half of the global light-duty all-electric market segment. Nissan sales totaled 185,000 units, which includes the Nissan Leaf and the e-NV200 van. Renault has sold 65,000 electric vehicles, and its line-up includes the ZOE passenger car, the Kangoo Z.E. van, the SM3 Z.E. (previously Fluence Z.E.) sedan and the
+Twizy heavy quadricycle.[124]
+As of December 2016[update], the world's two best selling all-electric cars in history are the Nissan Leaf (left), with more than 250,000 global sales, and the Tesla Model S (right), with over 158,000 units delivered.[125]
+By mid-September 2015, the global stock of highway legal plug-in electric passenger cars and utility vans passed the one million sales milestone, with the pure electrics capturing about 62% of global sales.[126] The United States is the plug-in segment market leader with a stock of over 363,000 plug-in electric cars delivered since 2008 through August 2015, representing 36.3% of global sales.[126] The state of California is the largest plug-in car regional market, with more than 158,000 units sold between December 2010 and June 2015, representing 46.5% of all plug-in cars sold in the U.S.[127][128][129][129][130] Until December 2014, California not only had more plug-in electric vehicles than any other state in the nation, but also more than any other country.[131][132]
+As of August 2015[update], China ranked as the world's second top selling country plug-in market, with over 157,000 units sold since 2011 (15.7%), followed by Japan with more than 120,000 plug-in units sold since 2009 (12.1%).[126] As of June 2015[update], over 310,000 light-duty plug-in electric vehicles have been registered in the European market since 2010.[133][134] European sales are led by Norway, followed by the Netherlands, and France.[126] In the heavy-duty segment, China is the world's leader, with over 65,000 buses and other commercial vehicles sold through August 2015.[126]
+As of December 2015[update], global sales of electric cars were led by the Nissan Leaf with over 200,000 units sold making the Leaf the world's top selling highway-capable electric car in history. The Tesla Model S, with global deliveries of more than 100,000 units, is the world's second best selling all-electric car of all-time.[135] The Model S ranked as the world's best selling plug-in electric vehicle in 2015, up from second best in 2014.[136][137] The Model S was also the top selling plug-in car in the U.S. in 2015.[138] Most models released in the world's markets to retail customers during 2015 were plug-in hybrids. The only new series production all-electric cars launched up to October 2015 were the BYD e5 and the Tesla Model X, together with several variants of the Tesla Model S line-up.[139]
+The Tesla Model 3 was unveiled on 31 March 2016. With pricing starting at US$35,000 and an all-electric range of 345 km (215 miles), the Model 3 is Tesla Motors first vehicle aimed for the mass market. Before the unveiling event, over 115,000 people had reserved the Model 3.[140] As of 7 April 2016[update], one week after the event, Tesla Motors reported over 325,000 reservations, more than triple the 107,000 Model S cars Tesla had sold by the end of 2015. These reservations represent potential sales of over US$14 billion.[141][142] As of 31 March 2016[update], Tesla Motors has sold almost 125,000 electric cars worldwide since delivery of its first Tesla Roadster in 2008.[143] Tesla reported the number of net reservations totaled about 373,000 as of 15 May 2016[update], after about 8,000 customer cancellations and about 4,200 reservations canceled by the automaker because these appeared to be duplicates from speculators.[144][145]
+The Hyundai Ioniq Electric was released in South Korea in July 2016, and sold over 1,000 units during its first two months in the market.[146] The Renault-Nissan Alliance achieved the milestone of 350,000 electric vehicles sold globally in August 2016, and also set an industry record of 100,000 electric vehicle sold in a single year.[147] Nissan global electric vehicle sales passed the 250,000 unit milestone also in August 2016.[147] Renault global electric vehicle sales passed the 100,000 unit milestone in early September 2016.[148] Global sales of the Tesla Model X passed the 10,000 unit mark in August 2016, with most cars delivered in the United States.[149]
+The first Chevrolet Bolt EVs were delivered to customers in the San Francisco Bay Area in December 2016[150]
+Cumulative global sales of pure electric passenger cars and utility vans passed the 1 million unit milestone in September 2016.[1] Global sales of the Tesla Model S achieved the 150,000 unit milestone in November 2016, four years and five months after its introduction, and just five more months than it took the Nissan Leaf to achieve the same milestone.[151] Norway achieved the milestone of 100,000 all-electric vehicles registered in December 2016.[152] Retail deliveries of the 383 km (238 miles) Chevrolet Bolt EV
+began in the San Francisco Bay Area on 13 December 2016.[150] In December 2016, Nissan reported that Leaf owners worldwide achieved the milestone of 3 billion km (1.9 billion miles) driven collectively through November 2016, saving the equivalent of nearly 500 million kg (1,100 million lb) of CO2 emissions.[153] Global Nissan Leaf sales passed 250,000 units delivered in December 2016.[154][155] The Tesla Model S was the world's best-selling plug-in electric car in 2016 for the second year running, with 50,931 units delivered globally.[125][156]
+In December 2016, Norway became the first country where 5% of all registered passenger cars was a plug-in electric.[157] When new car sales in Norway are breakdown by powertrain or fuel, nine of the top ten best-selling models in 2016 were electric-drive models. The Norwegian electric-drive segment achieved a combined market share of 40.2% of new passenger car sales in 2016, consisting of 15.7% for all-electric cars, 13.4% for plug-in hybrids, and 11.2% for conventional hybris.[158] A record monthly market share for the plug-in electric passenger segment in any country was achieved in Norway in January 2017 with 37.5% of new car sales; the plug-in hybrid segment reached a 20.0% market share of new passenger cars, and the all-electric car segment had a 17.5% market share.[159] Also in January 2017, the electrified passenger car segment, consisting of plug-in hybrids, all-electric cars and conventional hybrids, for the first time ever surpassed combined sales of cars with a conventional diesel or gasoline engine, with a market share of 51.4% of new car sales that month.[159][160] For many years Norwegian electric vehicles have been subsidised by approximately 50%, and have several other benefits, such as use of bus lanes and free parking.[161] Many of these perks have been extended to 2020.[162]
+Dedicated free parking lot for electric cars in Oslo. In October 2018, 1 in every 10 passenger cars on Norwegian roads was a plug-in.[163]
+In February 2017 Consumer Reports named Tesla as the top car brand in the United States and ranked it 8th among global carmakers.[164] Deliveries of the Tesla Model S passed the 200,000 unit milestone during the fourth quarter of 2017.[165] Global sales of the Nissan Leaf achieved the 300,000 unit milestone in January 2018.[166]
+In September 2018, the Norwegian market share of all-electric cars reached 45.3% and plug-in hybrids 14.9%, for a combined market share of the plug-in car segment of 60.2% of new car registrations that month, becoming the world's highest-ever monthly market share for the plug-in electric passenger segment in Norway and in any country. Accounting for conventional hybrids, the electrified segment achieved an all-time record 71.5% market share in September 2018.[167][168] In October 2018, Norway became the first country where 1 in every 10 passenger cars registered is a plug-in electric vehicle.[163]
+Norway ended 2018 with plug-in market share of 49.1%, meaning that every second new passenger car sold in the country in 2018 was a plug-in electric. The market share for the all-electric segment was 31.2% in 2018.[169]
+The Tesla Model 3 was the world's best selling plug-in electric passenger car in 2018.[3]
+Tesla delivered its 100,000th Model 3 in October 2018.[170] U.S. sales of the
+Model 3 reached the 100,000 unit milestone in November 2018, quicker than any previous model sold in the country.[171] The Model 3 was the top-selling plug-in electric car in the U.S. for 12 consecutive months since January 2018, ending 2018 as the best-selling plug-in with an estimated all-time record of 139,782 units delivered, the first time a plug-in car sold more than 100 thousand units in a single year.[172][173][174] The Tesla Model 3 was also the world's best selling plug-in electric car in 2018.[3] In January 2019, with 148,046 units sold since inception in the American market, the Model 3 overtook the Model S to become the all-time best selling all-electric car in the U.S.[175]
+The global stock of plug-in electric passenger cars reached 5.1 million units in December 2018, consisting of 3.3 million all-electric cars (65%) and 1.8 million plug-in hybrid cars (35%).[2][3] The global ratio between BEVs and PHEVs has been shifting towards fully electric cars, it went from 56:44 in 2012, to 60:40 in 2015, and rose to 69:31 in 2018.[3][176] Despite the rapid growth experienced, the plug-in electric car segment represented just about 1 out of every 250 motor vehicles on the world's roads at the end of 2018.[177]
+Electric bicycle[edit]
+Main article: Electric bicycle
+The principal manufacturer of e-bikes globally is China, with 2009 seeing the manufacturer of 22.2 million units. In the world Geoby is the leading manufacturers of E-bikes. Pedego is the best selling in the U.S.
+China accounts for nearly 92% of the market worldwide. In China the number of electric bicycles on the road was 120 million in 2010. Jiangsu Yadea, an electric bicycle producer of renown in China, leads the ranking of China National Light Industry Council (CNLIC) electric bicycle industry for three years. It retains capacity of nearly 6 million electric bicycles a year.
+In 1997, Charger Electric Bicycle was the first U.S. company to come out with a pedelec.
+Select historical production vehicles[edit]
+See also: Electric car use by country, list of modern production plug-in electric vehicles, and list of production battery electric vehicles
+Selected list of battery electric vehicles include (in chronological order):[178][179]
+Name
+Production years
+Number produced
+Top Speed
+Cost
+Range
+mpg USL/100 km(City)
+mpg USL/100 km(Hwy)
+Baker Electric
+1899–1915
+?
+14 mph 23 km/h
+US$2300 or €1,700
+80 km (50 miles)
+Studebaker Electric[180]
+1902–1912
+1,841
+3–18 mph5–29 km/h
+Runabout - US$950, Stanhope $1,303, Victoria $1,600, Surrey - $1,800
+30-80 miles
+Detroit Electric[181]
+1907–1939
+13,000[182]
+20 mph 32 km/h
+>US$3,000 or €2,250 depending on options
+130 km (80 miles)
+Henney Kilowatt[183]
+1958–1960
+<100
+60 mph 97 km/h
+?
+?
+Enfield 8000[39]
+1966–1976
+112
+64 km/h (40 mph)
+GB£2,000
+40–90 km (25–56 miles)
+Sebring-Vanguard Citicar
+1974–1982
+4,444including variants[184]
+38 mph 61 km/h
+?
+Approximately65 km (40 miles)
+Sinclair C5
+1985
+14,000
+15 mph 24 km/h
+£399
+30 km (20 miles)
+Škoda Favorit ELTRA 151L & 151 Pick-Up[185]
+1992–1994
+<1,100, perhaps 20 surviving
+50 mph 80 km/h (limiter)
+< US $20,000, without subsidy
+80 km (50 miles)
+General Motors EV1[186]
+1996–2003
+1,117
+80 mph 129 km/h
+~ US$40,000 or €30,000, without subsidies
+255 km (160 miles)
+Chevrolet S10 EV[187]
+1997–1998
+492
+73 mph 118 km/h
+~ US$40,000 or €30,000, without subsidies
+145 km (90 miles)
+Honda EV Plus[188]
+1997–1999
+~300
+80+ mph 130+ km/h
+US$455 or €340/month for 36-month lease; or $53,000 or €40,000 without subsidies
+130–175 km (80–110 miles)
+Toyota RAV4 EV[189]
+1997–2002
+1,249
+78 mph 125 km/h
+US$40,000 or €30,000 without subsidies
+140 km (87 miles)
+1251.88
+1002.35
+Ford Ranger EV[190]
+1998–2002
+1,500, perhaps 200 surviving
+~ US$50,000 or €37,600; subsidized down to $20,000 or €15,000
+120 km (74 miles)
+TH!NK City
+1999–2002
+1,000+
+56 mph 90 km/h
+85 km (53 miles)
+1061.59
+832.83
+REVAi[191]
+2001–2012
+4,000+[192]
+45 mph 72 km/h £8,000[193], US$15,000 or €11,900
+80 km (50 miles)
+ZAP Xebra[194]
+2006–2009
+700+
+40 mph 65 km/h, $100[195]
+$10,000 or €7,500
+40 km (25 miles)
+Tesla Roadster[196][197][198]
+2008–2012
+2,500
+130 mph 210 km/h [199]
+US$109,000 or €99,000 base price [200]
+355 km (220 miles)
+less than 2 cents/mile off peak recharge
+Modern series production electric cars
+Mitsubishi i MiEV(Peugeot iOn/Citroën C-Zero)
+2009–
+~37,600as of June 2016[update][201]
+80 mph 130 km/h
+US$29,125 base price[202]
+160 km (100 miles) (Japanese cycle)100 km (62 miles) (EPA cycle)
+Nissan Leaf
+2010–
+350,000 as of September 2018[update][203]
+175 km (109 miles) (New European Driving Cycle)
+BYD e6
+2010–
+34,862in Chinaas of December 2016[update][204][205]
+Renault Kangoo Z.E.
+2011–
+25,205as of December 2016[update][206]
+Bolloré Bluecar
+2011–
+5,524 as of July 2016[update](in France)[207]
+Ford Focus EV
+2012-
+6764 as of Nov 2016[208]
+US$39,995 base price (2012)
+US$29,120 base price (2017) [209]
+160 km (100 miles)[210]
+118 MPGe / 1.99 l/100 km[210]
+96 MPGe / 2.45 l/100 km[210]
+Smart ED(2nd and 3rd gen)
+2012–
+~9,000as of June 2014[update][211][212][213]
+Tesla Model S[214]
+2012–
+200,000 as of November 2017[update][165]
+155 mph (250 km/h) for 90+kWh version [215]
+US$69,900 base price with60 kW·h battery pack [216]
+485 km (300 miles)
+89 Combined2.64 Combined
+Renault Zoe
+2013–
+61,205as of December 2016[update][125]
+Volkswagen e-Up!
+2013–
+9,157as of October 2015[update][217][218][219]
+BMW i3
+2013–
+~ 65,500 as of December 2016[update][125]
+130 to 160 km (80 to 100 miles)[220]
+Kia Soul EV
+2014–
+150 km (93 miles)[221]
+Volkswagen e-Golf
+2014–
+12,653 in Europe as of October 2015[update][222][223] and 3,980 in the U.S.as of November 2015[update].[224][225]
+130 to 190 kilometres (81 to 118 mi)[226]
+Mercedes-Benz B-Class Electric Drive
+2014–
+140 km (87 miles)[227]
+Tesla Model X
+2015–
+25,524as of December 2016[update][125]
+237 to 289
+BYD e5
+2015–
+17,065in Chinaas of December 2016[update][205][228]
+BYD Qin EV300
+2016–
+10,656in Chinaas of December 2016[update][205]
+Chevrolet Bolt
+2017-
+51,600 in US, Canada and S. Korea as of end of 2018[229]
+91 mph (146 km/h)
+Starting US$36,620 for the base LT[230]
+238 miles (383 km)[231]
+128 MPGe[232]
+110 MPGe
+Tesla Model 3[233]
+2017–
+100,000as of October 2018[update][170]
+US$35,000 base price withStandard battery pack[234]
+355 km (220 miles) with Standard version, 500 km (310 miles) with Long Range version
+126 MPGe Combined
+See also[edit]
+History of the automobile
+History of plug-in hybrids
+History of electric motorcycles and scooters
+List of modern production plug-in electric vehicles
+Country specific
+Electric car use by country
+Plug-in electric vehicles in Japan
+Plug-in electric vehicles in the Netherlands
+Plug-in electric vehicles in Norway
+Plug-in electric vehicles in the United Kingdom
+Plug-in electric vehicles in the United States
+References[edit]
+^ a b Shahan, Zachary (2016-11-22). "1 Million Pure EVs Worldwide: EV Revolution Begins!". Clean Technica. Retrieved 2016-11-23.
+^ a b Vaughan, Adam (2017-12-25). "Electric and plug-in hybrid cars whiz past 3m mark worldwide". The Guardian. Retrieved 2018-01-20. "The number of fully electric and plug-in hybrid cars on the world’s roads passed the 3 million mark in November 2017."
+^ a b c d e Jose, Pontes (2019-01-31). "Global Top 20 - December 2018". EVSales.com. Retrieved 2019-01-31. "Global sales totaled 2,018,247 plug-in passenger cars in 2018, with a BEV:PHEV ratio of 69:31, and a market share of 2.1%. The world's top selling
+plug-in car was the Tesla Model 3, and Tesla was the top selling manufacturer of plug-in passenger cars in 2018, followed by BYD."
+^ Guarnieri, M. (2012). "Looking back to electric cars". Proc. HISTELCON 2012 - 3rd Region-8 IEEE HISTory of Electro - Technology CONference: The Origins of Electrotechnologies: #6487583. doi:10.1109/HISTELCON.2012.6487583.
+^ Today in Technology History: July 6, The Center for the Study of Technology and Science, archived from the original on 2009-10-15, retrieved 2009-07-14
+^ Sibrandus Stratingh (1785–1841), Professor of Chemistry and Technology, University of Groningen – English available, retrieved 2009-04-24
+^ Day, Lance; McNeil, Ian (1966). "Davidson, Robert". Biographical dictionary of the history of technology. London: Routledge. ISBN 978-0-415-06042-4.
+^ Gordon, William (1910). "The Underground Electric". Our Home Railways. 2. London: Frederick Warne. p. 156.
+^ Renzo Pocaterra, Treni, De Agostini, 2003
+^ Armstrong Moore, Elizabeth (10 February 2009), "As electric cars gain currency, Oregon charges ahead", Christian Science Monitor, retrieved 2009-04-24
+^ a b c Bellis, M. (2006), "The Early Years", The History of Electric Vehicles, About.com, retrieved 6 July 2006
+^ "Electric Traction". mikes.railhistory.railfan.net. September 2010. Retrieved 2017-11-23.
+^ "Planté Battery". National High Magnetic Field Laboratory. Retrieved 14 December 2014.
+^ "Development of the Motor Car and Bicycle". TravelSmart Teacher Resource Kit. Government of Australia. 2003. Retrieved 2009-04-24.
+^ Timeline: Life & Death of the Electric Car, NOW on PBS, Public Broadcasting Service, 9 June 2006, retrieved 2009-04-24
+^ ernst102, "The Electric/Hybrid Car", Solution: Alternative energy for passenger vehicles (PDF), University of Minnesota, p. 20 (1 on PDF), archived from the original (PDF) on 2008-06-26, retrieved 2009-04-24
+^ Wakefield, Ernest H. (1994), History of the Electric Automobile, Society of Automotive Engineers, pp. 2–3, ISBN 1-56091-299-5
+^ "World's first electric car built by Victorian inventor in 1884". The Daily Telegraph. London. 2009-04-24. Retrieved 2009-07-14.
+^ Fuller, John (2009-04-09). "What is the history of electric cars?". auto.howstuffworks.com. Retrieved 2014-12-14.
+^ "Electric Vehicles History Part III". Retrieved 2012-12-17.
+^ Halwart Schrader: Flocken. In: Deutsche Autos 1885 – 1920. First edition 2002, p. 182.
+^ Cub Scout Car Show (PDF), January 2008, retrieved 2009-04-12
+^ "1896 Riker Electric Tricycle". The Henry Ford. Retrieved 2017-11-23.
+^ "History of the Licensed London Taxi".
+^ "Hailing the History of New York's Yellow Cabs".
+^ "Car Companies". Early Electric. Retrieved 2017-11-23.
+^ a b c Automobile, retrieved 18 July 2009
+^ a b Kirsch, David A. (2000). The Electric Vehicle and the Burden of History. New Brunswick, New Jersey, and London: Rutgers University Press. pp. 153–162. ISBN 0-8135-2809-7.
+^ a b Matthe, Roland; Eberle, Ulrich (2014-01-01). "The Voltec System - Energy Storage and Electric Propulsion". Retrieved 2014-05-04.
+^ McMahon, D. (13 November 2009). "Some EV History / History of Electric Cars and Other Vehicles". Econogics. Retrieved 13 July 2013.
+^ "1984". Yale History. Archived from the original on 2006-02-02. Retrieved 2009-07-09.
+^ "Escaping Lock-in: the Case of the Electric Vehicle". Cgl.uwaterloo.ca. Retrieved 2010-11-27.
+^ "Lektro has been making electric vehicles since 1945". Lektro. Retrieved 13 July 2013. Chapter: Lektro history.
+^ Schiffer, Michael Brian (17 March 2003). Taking Charge: The Electric Automobile in America. Smithsonian. ISBN 978-1-58834-076-4.
+^ a b "Rearview Mirror". Ward's AutoWorld. 2000-04-01. Retrieved 2013-07-13.
+^ Russell, Roger. "Sonotone History: Tubes, Hi-Fi Electronics, Tape heads and Nicad Batteries". Sonotone Corporation History. Retrieved 2013-07-13.
+^ Carr, Richard (1 July 1966). "In search of the town car". Design. Council of Industrial Design (211): 29–37.
+^ "GM's long road back to electric cars". CNN. 2009-04-07. Retrieved 2013-07-13.
+^ a b Westbrook, Michael Hereward (2001). The Electric Car. Institute of Engineering & Technology. ISBN 0-85296-013-1.
+^ a b Goodstein, Judith (2004). "Godfather of the Hybrid" (PDF). Engineering & Science. California Institute of Technology. LXVII (3). Archived from the original (PDF) on 2011-01-07. Retrieved 2013-07-13.
+^ Sperling, Daniel and Deborah Gordon (2009), Two billion cars: driving toward sustainability, Oxford University Press, New York, pp. 24 and 189–191, ISBN 978-0-19-537664-7
+^ a b c d Who Killed the Electric Car? Directed by Chris Paine, Distributed by Sony Pictures Classics
+^ Adams, Noel (2001-12-02). "Why is GM Crushing Their EV-1s?". Electrifying Times.
+^ King, Danny (20 June 2011). "Neighborhood Electric Vehicle Sales To Climb". Edmunds Auto Observer. Archived from the original on 2012-05-27. Retrieved 2012-02-05.
+^ Saranow, Jennifer (27 July 2006), "The Electric Car Gets Some Muscle", Pittsburgh Post-Gazette, retrieved 2009-04-24
+^ "Polaris GEM Introduces 2015 Models". The Wall Street Journal. 2014-07-24. Retrieved 2014-08-09.
+^ Hurst and Clint Wheelock, Dave (2011). "Executive Summary: Neighborhood Electric Vehicles – Low Speed Electric Vehicles for Consumer and Fleet Markets" (PDF). Pike Research. Archived from the original (PDF) on 2012-03-07. Retrieved 2012-02-05.
+^ Historien bak Buddy (in Norwegian)
+^ "Think Begins Production of New TH!NK City EV". Green Car Congress. 2007-12-02. Retrieved 2010-09-28.
+^ Montavalli, Jim (2009-12-11). "Think Restarts Production in Finland". New York Times. Retrieved 2010-04-04.
+^ "THINK Begins EV Sales in Finland". Green Car Congress. 11 September 2010. Retrieved 2010-09-12.
+^ Loveday, Eric (2010-09-13). "Think kicks off sales of City electric vehicle in Finland". AutoblogGreen. Retrieved 2010-09-14.
+^ Bolduc, Douglas A. (2011-06-22). "Norwegian EV maker Think files for bankruptcy". Automotive News. Retrieved 2011-06-23.
+^ Doggett, Scott (2011-03-30). "Think Announces $36,495 MSRP for City EV". Edmunds.com. Archived from the original on 2011-04-04. Retrieved 2011-04-04.
+^ Xueqing, Jiang (2014-01-11). "New-energy vehicles 'turning the corner'". China Daily. Retrieved 2014-01-12.
+^ "We have begun regular production of the Tesla Roadster". Tesla Motors. 2008-03-17. Retrieved 2008-03-20.
+^ Shahan, Zachary (2015-04-26). "Electric Car Evolution". Clean Technica. Retrieved 2016-09-08. 2008: The Tesla Roadster becomes the first production electric vehicle to use lithium-ion battery cells as well as the first production electric vehicle to have a range of over 200 miles on a single charge.
+^ "SEC Form 10-K for Fiscal Year Ended Dec 31, 2012, Commission File Number: 001-34756, Tesla Motors, Inc". U.S. Securities and Exchange Commission. 6 February 2016. Archived from the original on 16 May 2016. Retrieved 25 February 2014. As of December 31, 2012, we had delivered approximately 2,450 Tesla Roadsters to customers in over 30 countries.
+^ Woodyard, Chris (2011-08-03). "Tesla boasts about electric car deliveries, plans for sedan". USA Today. Retrieved 2011-10-04.
+^ Garthwaite, Josie (2011-05-06). "Tesla Prepares for a Gap as Roadster Winds Down". The New York Times. Retrieved 2011-05-07.
+^ Dillow, Clay (2011-06-24). "Farewell Roadster: Tesla Will Stop Taking Orders for its Iconic EV in Two Months". Popular Science. US. Retrieved 2017-12-27.
+^ Valdes-Dapena, Peter (2011-06-22). "Tesla Roadster reaches the end of the line". CNN Money. US. Retrieved 2017-12-27.
+^ King, Danny (2012-01-11). "Tesla continues Roadster sales with tweaks in Europe, Asia and Australia". Autoblog Green. Retrieved 2012-01-13.
+^ Gordon-Bloomfield, Nikki (2012-01-11). "Tesla Updates Roadster For 2012. There's Just One Catch..." Green Car Reports. Retrieved 2012-01-16.
+^ Boudreau, John (2012-06-22). "In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars". San Jose Mercury News. Retrieved 2012-06-22.
+^ Ingram, Antony (2013-08-07). "First 2013 Tesla Model S Delivered Outside North America--In Oslo". Green Car Reports. Retrieved 2013-08-07.
+^ Makinen, Julie (2014-04-22). "Tesla delivers its first electric cars in China; delays upset some". Los Angeles Times. Retrieved 2014-05-07.
+^ Blanco, Sebastian (2014-11-05). "Tesla Model X delayed, again, but Musk says Model S demand remains high". Autoblog Green. Retrieved 2014-11-05.
+^ "Mitsubishi Motors Begins Production of i-MiEV; Targeting 1,400 Units in Fiscal 2009". Green Car Congress. 5 June 2009. Retrieved 2010-04-04.
+^ Kageyama, Yuri (2010-03-31). "Japanese Start Buying Affordable Electric Cars". The Seattle Times. Associated Press. Retrieved 2010-04-24.
+^ Kim, Chang-Ran (2010-03-30). "Mitsubishi Motors lowers price of electric i-MiEV". Reuters. Retrieved 2010-04-25.
+^ "Mitsubishi Begins Sales of i-MiEV to Individuals in Hong Kong; First Individual Sales Outside of Japan". Green Car Congress. 2010-05-20. Retrieved 2010-05-21.
+^ "Mitsubishi Motors to Begin Shipping i-MiEV to Australia in July; 2nd Market Outside Japan". Green Car Congress. 2010-06-02. Retrieved 2010-06-02.
+^ "The i-MiEV goes on sale in 15 European countries; near-term plan to boost that to 19". GreenCarCongress. 2011-01-14.
+^ Halvorson, Bengt (2011-10-04). "2012 Mitsubishi i: First Drive, U.S.-Spec MiEV". Green Car Reports. Retrieved 2011-10-04.
+^ "Mitsubishi To Launch Its Electric Car First in Costa Rica". InsideCostaRica. 2010-12-27. Retrieved 2011-01-12.
+^ Ibarra, Alejandro Marimán (2011-05-04). "Mitsubishi i-MIEV: Lanzado oficialmente en Chile" (in Spanish). Yahoo Chile. Archived from the original on 2011-10-21. Retrieved 2011-07-21.
+^ Woodyard, Chris (2011-12-08). "Mitsubishi delivers its first 'i' electric car". USA Today. Retrieved 2011-12-10.
+^ Mitsubishi Motors North America (2011-12-12). "Mitsubishi Motors, Governor of Hawaii and Cutter Mitsubishi Hand Over Keys to First 2012 Mitsubishi i-MiEV Retail Customer". ABC Action News (Press release). Archived from the original on 2012-07-19. Retrieved 2011-12-12.
+^ Blanco, Sebastian (2011-06-08). "Mitsubishi sets Canadian i-MiEV price at $32,998". AutoblogGreen. Retrieved 2011-06-08.
+^ Ingram, Antony (2013-01-24). "Mitsubishi i-MiEV Electric Cars Recalled To Fix Braking Problem". Green Car Reports. Retrieved 2013-02-09.
+^ Friend, Tad (2009-01-07). "Elon Musk and electric cars". The New Yorker. Retrieved 2010-07-16.
+^ Doggett, Scott (2010-12-11). "First Production Nissan Leaf Electric Vehicle Delivered to Customer". Edmunds.com. Retrieved 2010-12-11.
+^ "Nissan Rolls Out Leaf Electric Car in Japan". Associated Press. 3 December 2010. Retrieved 2010-12-03.
+^ a b "Nissan LEAF Smashes 50,000 Global Sales Milestone" (Press release). Nissan Media Room. 2013-02-14. Retrieved 2013-02-15.
+^ "The Renault Fluence ZE". Better Place. 2010-10-22. Archived from the original on 2010-09-12. Retrieved 2010-10-22.
+^ Udasin, Sharon (2011-03-24). "Better Place launches 1st Israeli battery-switching station". The Jerusalem Post. Retrieved 2011-03-25.
+^ "Better Place Delivers For Demanding Amsterdam Taxi Drivers". Better Place. Archived from the original on 2012-12-07. Retrieved 2012-12-19.
+^ McCowen, David (2013-02-18). "The rise and fall of Better Place". Drive.com.au. Archived from the original on 2013-09-30. Retrieved 2013-04-14.
+^ Beissmann, Tim (2012-12-13). "Renault Fluence Z.E. launch delayed due to infrastructure hold-ups". Car Advice. Retrieved 2013-04-21.
+^ "Better Place winding down ops in North America and Australia, to focus on Denmark and Israel". Green Car Congress. 2013-04-17. Retrieved 2013-04-21.
+^ Voelcker, John (2013-05-26). "Better Place Electric-Car Service Files For Bankruptcy". Green Car Reports. Retrieved 2013-05-26.
+^ Kershner, Isabel (2013-05-26). "Israeli Venture Meant to Serve Electric Cars Is Ending Its Run". The New York Times. Retrieved 2013-05-27.
+^ Elis, Niv (2013-05-26). "Death of Better Place: Electric car co. to dissolve". The Jerusalem Post. Retrieved 2013-05-30.
+^ "First Pure-Electric Vehicle now available for Consumers in China". BYD Company. 2011-10-27. Archived from the original on 2011-11-01. Retrieved 2011-10-29.
+^ Lord, Richard (2011-12-05). "Autolib' electric car sharing service launches in Paris, France". Sustainable Guernsey. Retrieved 2011-12-20.
+^ Lepsch, Laurent (2012-10-08). "Louez une Bluecarpour 500 € par mois" [Lease a Bluecar for €500 per month] (in French). Auto News. Retrieved 2012-10-12.
+^ "Best-selling electric car". Guinness World Records. 2012. Retrieved 2013-02-13.
+^ "UC Irvine's car-sharing program charges ahead" (Press release). University of California, Irvine. 2013-03-21. Retrieved 2013-03-28.
+^ "Electric Car Maker Files for Bankruptcy Protection". The New York Times. Reuters. 2013-05-01. Retrieved 2013-05-01.
+^ Ohnsman, Alan (2013-05-08). "Tesla Posts First Quarterly Profit on Model S Deliveries". Bloomberg. Retrieved 2013-05-08. During Q1 2013 a total of 4,900 Model S cars were delivered in North America (mostly in the U.S. and a few units delivered in Canada. Volt and Leaf sales correspond to the U.S. and Canada combined.
+^ Ingram, Antony (2013-08-07). "First 2013 Tesla Model S Delivered Outside North America--In Oslo". Green Car Reports. Retrieved 2013-08-07.
+^ "Norges mest solgte bil i september er en elbil" [Norway's best selling car in September is an electric vehicle] (in Norwegian). Grønn bil. 2013-10-01. Archived from the original on 2013-10-04. Retrieved 2013-10-02.
+^ Gasnier, Mat (2013-10-02). "Norway September 2013: Tesla Model S in pole position!". Best Selling Cars Blog. Retrieved 2013-10-02.
+^ "Nissan Leaf tops Norway Oct. car sales, beats Toyota Auris, VW Golf". Automotive News Europe. Reuters. 2013-11-01. Retrieved 2013-11-02.
+^ Gasnier, Mat (2013-11-02). "Norway October 2013: Nissan Leaf new leader!". Best Selling Cars Blog. Retrieved 2013-11-02.
+^ "The new BMW i3 - Press pack". BMW Group (Press release). 2013-11-06. Retrieved 2013-11-07.
+^ a b Cobb, Jeff (2015-02-10). "2014's Top-10 Global Best-Selling Plug-in Cars". HybridCars.com. Retrieved 2015-11-06.
+^ Renault Media (2013-07-23). "Renault-Nissan sells its 100,000th electric car". Green Car Congress. Retrieved 2013-07-28.
+^ "Renault-Nissan sells its 100,000th Zero-Emission car". Renault Media (Press release). 2013-07-23. Retrieved 2013-07-28.
+^ Nissan News Release (2014-01-20). "Nissan LEAF global sales reach 100,000 units". Automotive World (Press release). Retrieved 2014-01-20.
+^ Cobb, Jeff (2014-07-09). "Plug-In Car Sales Cross Global Half-Million Mark". HybridCars.com. Retrieved 2014-07-10.
+^ "Mercedes-Benz-BMW Battle Shifts To Plug-In Electric Vehicles In The U.S." Forbes. 2014-06-25. Retrieved 2014-07-10.
+^ Cobb, Jeff (2014-09-09). "Americans Buy Their 250,000th Plug-In Car". HybridCars.com. Retrieved 2014-10-04.
+^ a b Cobb, Jeff (2015-06-16). "Tesla Due To Sell 75,000th Model S This Month". HybridCars.com. Retrieved 2015-06-17.
+^ "Renault-Nissan Alliance sells its 200,000th electric vehicle" (Press release). Paris and Yokohama: Renault Media. 2014-11-26. Retrieved 2014-11-28.
+^ Cobb, Jeff (2016-08-01). "Renault Zoe and BMW i3 Join The 50,000 Sales Club". HybridCars.com. Retrieved 2016-08-01. As of June 2016[update], cumulative global sales of the top selling plug-in electric cars were led by the Nissan Leaf (about 225,000), Tesla Model S (over 129,000), BYD Qin (56,191), Renault Zoe (51,193), and BMW i3 (almost 50,000).
+^ Turkus, Brandon (2015-01-12). "Chevrolet Bolt EV Concept foreshadows an affordable, 200-mile EV future [w/videos]". Autoblog.com. Retrieved 2015-01-12.
+^ "Chevrolet Commits to Bolt EV Production" (Press release). General Motors Media. 2015-02-12. Retrieved 2015-02-17.
+^ Thevenot, Brian; Hirsch, Jerry (2015-01-12). "Chevy Bolt electric car targets Tesla with low price, long range". The Los Angeles Times. Retrieved 2015-01-13.
+^ Korosec, Kirsten (2016-02-11). "GM Unveils an All-Electric Car for Europe". Fortune. Retrieved 2016-02-12.
+^ Cobb, Jeff (2015-06-01). "Renault-Nissan And Leaf Lead All In Global EV Proliferation". HybridCars.com. Retrieved 2015-06-14. About 510,000 battery electric cars and light-duty vans have been sold worldwide by May 2015.
+^ Cobb, Jeff (2015-06-15). "Three More Plug-in Cars Cross 25,000 Sales Milestone". HybridCars.com. Retrieved 2015-12-19.
+^ Groupe Renault (June 2015). "Ventes Mensuelles" [Monthly Sales] (in French). Renault.com. Retrieved 2015-06-26.
+Includes passenger and light utility variants. Click on "Ventes mensuelles (mai 2015)" to download the files "XLSX - 187 Ko"
+for CYTD 2015 sales through May, and open the tab "Sales by Model".
+^ a b c d e Cobb, Jeff (2017-01-31). "Tesla Model S Is World's Best-Selling Plug-in Car For Second Year In A Row". HybridCars.com. Retrieved 2017-02-04. See also detailed 2016 sales and cumulative global sales in the two graphs.
+^ a b c d e Cobb, Jeff (2015-09-16). "One Million Global Plug-In Sales Milestone Reached". HybridCars.com. Retrieved 2015-09-16. Cumulative global sales totaled about 1,004,000 highway legal plug-in electric passenger cars and light-duty vehicles by mid-September 2015.
+^ Cobb, Jeff (2015-03-18). "Californians Bought More Plug-in Cars Than China Last Year". HybridCars.com. Retrieved 2015-03-18.
+^ Ohnsman, Alan (2014-09-09). "Californians Propel Plug-In Car Sales With 40% of Market". Bloomberg News. Archived from the original on 2014-09-09. Retrieved 2014-09-09.
+^ a b "California Auto Outlook Covering Fourth Quarter 2014: New Light Vehicle Registrations Likely to Exceed 1.9 million units in 2015" (PDF). California New Car Dealers Association (CNCDA). February 2015. Archived from the original (PDF) on 2015-09-23. Retrieved 2015-03-15. Registrations through December 2014 since 2010.
+^ "California New Vehicle Market Continues to Post Impressive Gains" (PDF). California New Car Dealers Association (CNCDA). August 2015. Retrieved 2015-10-10. Registrations through June 2015 since 2011. Revised figures for 2014.
+^ Medina, Jennifer (2014-09-21). "Jerry Brown Seeks More Electric Cars in California". The New York Times. Retrieved 2014-09-27.
+^ Hull, Dana (2014-09-08). "California charges ahead with electric vehicles". San Jose Mercury News. Retrieved 2015-03-15.
+^ Schreffler, Roger (2015-09-23). "PSA, Toyota Lead Way as European Cars Get Cleaner". Ward's Auto. Archived from the original on 2015-09-25. Retrieved 2015-09-24. Cumulative plug-in hybrid and all-electric sales in Europe totaled 233,022 units as of December 2014.
+^ Amiot, Maxime (2015-09-10). "Quand l'hybride rechargeable fait de l'ombre à la voiture électrique" [When the plug-in hybrid overshadows the electric car]. Les Échos (in French). France. Retrieved 2015-09-16. A total of 77,259 plug-in electric cars were sold in Europe during the first half of 2015, consisting of 40,558 all-electric cars and 36,701 plug-in hybrids.
+^ Cobb, Jeff (2015-12-15). "Tesla Model S Crossed 100,000 Sales Milestone This Month". HybridCars.com. Retrieved 2015-12-17. Accounting for global cumulative sales by December 2015, plug-in electric car sales are led by the Nissan Leaf (200,000), followed by the Tesla Model S (100,000). As of November 2015[update], Mitsubishi i-MiEV family (~50,000), BYD Qin (45,275), BMW i3 (38,581), Renault Zoe (36,040), and the Ford Fusion Energi (26,742). Combines sales of the top 10 PEV models represent almost 50% of cumulative global PEV sales through November 2015)
+^ Cobb, Jeff (2016-01-12). "Tesla Model S Was World's Best-Selling Plug-in Car in 2015". HybridCars.com. Retrieved 2016-01-13.
+^ Cobb, Jeff (2015-02-11). "2014's Top-10 Global Best-Selling Plug-in Cars". HybridCars.com. Retrieved 2015-02-11. A total of 31,655 units were sold worldwide in 2014. Global cumulative sales since June 2012 totaled 56,782 Model S cars by the end of 2014.
+^ Cobb, Jeff (2016-01-06). "December 2015 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2016-03-14.
+^ Millikin, Mike (2015-09-30). "Tesla CEO Musk launches Model X electric SUV: "safest SUV ever"". Green Car Congress. Retrieved 2015-10-03.
+^ Stoll, John (2016-02-10). "Tesla's Musk: Model 3 Orders Surpassed 115,000 Within 24 Hours". Wall Street Journal. Retrieved 2016-04-02.
+^ Hull, Dana (2016-04-07). "Tesla Says It Received More Than 325,000 Model 3 Reservations". Bloomberg News. Retrieved 2016-04-07.
+^ Baker, David R. (2016-04-01). "Tesla Model 3 reservations top 232,000". San Francisco Chronicle. Retrieved 2016-04-02. Tesla Motors had sold 107,000 Model S cars by the end of 2015
+^ Young, Angelo (2016-04-04). "Tesla Motors (TSLA) 1Q 2016 Sales: 14,820 Model S, Model X Cars Were Delivered In First Three Months; Model S Sales Jumped 45%". International Business Times. Retrieved 2016-04-04.
+^ Cole, Jay (2016-05-18). "Tesla, Musk Plan $2 Billion Stock Sale To Build Model 3, 373,000 People Reserved". InsideEVs.com. Retrieved 2016-05-18.
+^ Hull, Dana (2016-05-18). "Tesla to Sell $1.4 Billion in Shares for Expanded Production". Bloomberg News. Retrieved 2016-05-18.
+^ "Hyundai's Ioniq EV sales top 1,000 units". Yonhap News Agency. 2016-09-12. Retrieved 2016-09-22.
+^ a b "Renault-Nissan Alliance hits milestone of 350,000 electric vehicles sold, maintains position as global EV leader" (Press release). Paris/Yokohama: Renault-Nissan Alliance. 2016-09-13. Retrieved 2016-09-13. The Alliance has sold its 350,000th electric vehicle since December 2010, when the Nissan LEAF went on sale. The milestone was achieved in August 2016. The Alliance also set an industry record of 100,000 EVs sold in a single year.
+^ "Renault hands over the key to its 100,000th electric vehicle" (Press release). Oslo: Groupe Renault. 2016-09-09. Retrieved 2016-09-11.
+^ Kane, Mark (2016-09-14). "Tesla Model X Crosses The 10,000 Sold Mark". InsideEVs.com. Retrieved 2016-09-15.
+^ a b Cobb, Jeff. "First Chevy Bolt EVs Delivered Today". HybridCars.com. Archived from the original on 2016-12-14. Retrieved 2016-12-13.
+^ Cobb, Jeff (2016-12-05). "Tesla Model S Is Second Plug-in Car To Cross 150,000 Sales Milestone". HybridCars.com. Retrieved 2016-12-05. The Volt/Ampera family of vehicles is the world's all-time third best selling plug-in electric car after the Nissan Leaf (240,000), and the Tesla Model S (over 150,000),
+with 130,500 vehicles sold globally through November 2016.
+^ Frydenlund, Ståle (2016-12-13). "Norway now has 100,000 electric cars". Norsk Elbilforening (Norwegian Electric Vehicle Association). Retrieved 2016-12-13.
+^ "New Nissan Electric Café opens in Paris as the brand celebrates three billion EV kilometres worldwide" (Press release). Paris: Nissan Newsroom Europe. 2016-12-16. Retrieved 2016-12-17.
+^ "Nissan Intelligent Mobility at CES" (Press release). Las Vegas: Nissan USA. 2017-01-05. Retrieved 2017-01-07.
+^ Cobb, Jeff (2017-01-09). "Nissan's Quarter-Millionth Leaf Means It's The Best-Selling Plug-in Car In History". HybridCars.com. Retrieved 2017-01-10. As of December 2016[update], the Nissan Leaf is the world's best-selling plug-in car in history with more than 250,000 units delivered, followed by the Tesla Model S with over 158,000 sales through November 2016. These are the only plug-in electric cars so far with over 100,000 global sales.
+^ Sharan, Zachary (2017-02-04). "Tesla Model S & Nissan LEAF Clocked As World's Best-Selling Electric Cars In 2016". EV Volumes. CleanTechnica.com. Retrieved 2017-02-04.
+^ Cobb, Jeff (2017-01-17). "Top 10 Plug-in Vehicle Adopting Countries of 2016". HybridCars.com. Retrieved 2017-01-23.
+^ "Bilåret 2016 – status og trender" [Car sales 2016 - status and trends] (PDF). Norwegian Road Federation (OFV) (in Norwegian). 2017-01-10. Retrieved 2017-03-04.
+^ a b "Bilsalget i januar" [Car sales in January]. Norwegian Road Federation (OFV) (in Norwegian). February 2017. Archived from the original on 2017-02-11. Retrieved 2017-02-09. A total of 5,457 plug-in electric vehicles were registered in Norway in January 207, consisting of: 2,289 new electric cars, 494 used imported all-electric cars, 2,609 new plug-in hybrid cars, 54 new all-electric vans, and 11 used imported all-electric vans. Sales of new plug-in hybrids achieved a market share of 20.0%, all-electric cars 17.5% (excluding FCVs), conventional hybrids 13.9%, diesel cars excluding hybrids 23.9% and gasoline cars excluding hybrids 24.7%.
+^ Moberg, Knut (2017-02-06). "Bilsalget i januar 2017 - BMW foran Toyota" [Car sales in January 2017 - BMW surpassed Toyota]. Dinside.no (in Norwegian). Retrieved 2017-02-09.
+^ Mirani, Leo (2015-05-07). "Norway's electric-car incentives were so good they had to be stopped". Quartz. Retrieved 2017-11-23.
+^ Brown, Bruce (2016-11-09). "How long will new electric car purchase incentive programs be needed?". Digital Trends. Retrieved 2017-11-23.
+^ a b Kane, Mark (2018-10-07). "10% Of Norway's Passenger Vehicles Are Plug Ins". InsideEVs.com. Retrieved 2018-11-07.
+^ Bartlett, Jeff S. (2017-02-28). "Which Car Brands Make the Best Vehicles?". Consumer Reports. Retrieved 2017-03-03.
+^ a b Cobb, Jeff (2018-01-22). "Tesla Quietly Sold 200,000th Model S Last Year". HybridCars.com. Retrieved 2018-10-20. "Tesla sold its 200,000 Model S in the fourth quarter of 2017, in October or early November, becoming the second plug-in car to cross this sales threshold after the Nissan Leaf (300,000 units by early 2017). As of December 2017[update], Tesla reported global sales of 212,874 Model S cars."
+^ "Nissan delivers 300,000th Nissan LEAF" (Press release). Yokohama: Nissan. 2018-01-08. Retrieved 2018-01-14.
+^ Norwegian Road Federation (OFV) (October 2018). "Bilsalget i september" [Car sales in September] (in Norwegian). OFV. Retrieved 2018-10-24. The market share of all-electric cars reached 45.3% and plug-in hybrids 14.9%, for a combined market share of the plug-in car segment of 60.2% of new car registrations in September 2018.
+^ Kane, Mark (2018-10-02). "Plug-ins reach record market share in Norway". InsideEVs.com. Retrieved 2018-11-02.
+^ Norwegian Road Federation (OFV) (2019-01-02). "Bilsalget i 2018" [Car sales in 2018] (in Norwegian). OFV. Retrieved 2019-02-06.
+^ a b Halvorson, Bengt (2018-11-08). "Finalist for Green Car Reports Best Car To Buy 2019: Tesla Model 3". Green Car Reports. Retrieved 2018-11-09.
+^ Loveday, Eric (2018-12-04). "Tesla Model 3 Sales Charge Way Past Milestone Of 100,000 In U.S." InsideEVs.com. Retrieved 2018-12-04.
+^ Mark Kane (2019-01-03). "U.S. Tesla Sales In December 2018 Up By 249%". Inside EVs. Retrieved 2019-01-09.
+^ Steven Loveday (2019-01-07). "December 2018 U.S. EV Sales Recap: Over 360K Secured!". Inside EVs. Retrieved 2019-01-09.
+^ Kane, Mark (2019-01-24). "US Plug-In Electric Car Sales Charted: December 2018". InsideEVs.com. Retrieved 2019-01-24. See Graph: "Top 10 U.S. Plug-in cars (cumulative sales)" and "U.S. Plug-in Car Sales (cumulative)"
+^ Kane, Mark (2019-02-04). "US Plug-In Electric Car Sales Charted: January 2019". InsideEVs.com. Retrieved 2019-02-06. See Graph: "Top 10 U.S. Plug-in cars (cumulative sales)" In January 209 the Tesla Model 3 (148,046) overtook the Model S (144,767). The Chevrolet Volt (152,819) continues as the all-time best selling plug-in car in the U.S.
+^ Hertzke, Patrick; Müller, Nicolai; Schenk, Stephanie; Wu, Ting (May 2018). "The global electric-vehicle market is amped up and on the rise". McKinsey & Company. Retrieved 2019-01-27. See Exhibit 1: Global electric-vehicle sales, 2010-17.
+^ Coren, Michael J. (2019-01-25). "E-nough? Automakers may have completely overestimated how many people want electric cars". Quartz. Retrieved 2019-01-25. The plug-in electric car segment represented just about 1 out of every 250 vehicles on the world's roads by the end of 2018 A rate of 1/250 translates into 0.40% of all vehicles on the world's roads.
+^ Full Size Electric Vehicles
+^ [1]
+^ Studebaker Electrics were available in a variety of body styles, many of which mimicked the bodies that it had long produced for its lucrative passenger carriage line. These included the Stanhope, Victoria, and Surrey. A four-passenger model was introduced in 1904.
+^ Sold mainly to women and physicians.
+^ Voelcker, John (2013-03-19). "All-Electric Sports Car Coming Next Month From Detroit Startup?". Green Car Reports. Retrieved 2013-03-19.
+^ The first modern (transistor-based) electric car and outfitted with modern hydraulic brakes.
+^ "Electric car for the average Joe not far away". Wheels.ca. 2012-09-14. Retrieved 2014-08-09.
+^ Czech-built (first electric car prog. for eastern block mfr.), exported to Europe and N. America. Lead acid batt. 15 kW·h pack nominal; 84 V system with regen.
+^ For lease only, all recovered from customers by General Motors and most destroyed
+^ Fleet vehicle only. General Motors collected and destroyed most
+^ First BEV from a major automaker without lead-acid batteries. 24 twelve volt NiMH batteries
+^ Some leased and sold on US east and west coasts, supported. Toyota agreed to stop crushing.
+^ Some sold, most leased; almost all recovered and most destroyed. Ford allowed reconditioning and sale of a limited quantity to former leaseholders by lottery.
+^ Indian-built city car (sold in England as the "G-Wiz").
+^ Sharma, Praveena (17 March 2011). "Govt subsidy may rev up Reva sales". Daily News & Analysis India. Retrieved 2011-03-31.
+^ |[2]
+^ Chinese built sedan and truck
+^ Xebra Electric Sedan Reservation Archived 2010-01-03 at the Wayback Machine
+^ 650 scheduled for delivery in 2008, first one delivered 1 February 2008
+^ Tesla Roadster ‘Signature One Hundred’ Series Sells Out Archived 11 April 2016 at the Wayback Machine
+^ Tesla to open five dealer outlets Archived 16 March 2008 at the Wayback Machine
+^ [3]
+^ [4]
+^ Cobb, Jeff (2016-08-10). "Global 10 Best-Selling Plug-In Cars Are Accelerating Forward". HybridCars.com. Retrieved 2016-08-14. As of June 2016[update], cumulative global sales of the top selling plug-in electric cars were led by the Nissan Leaf (over 228,000), followed by the Tesla Model S (129,393),
+BYD Qin (56,191), Renault Zoe (51,193), BMW i3 (around 49,500), Mitsubishi i-MiEV family (about 37,600) and BYD Tang (37,509).
+^ Woodyard, Chris (2011-12-08). "Mitsubishi delivers its first 'i' electric car". USA Today. Retrieved 2011-12-10.
+^ "Nissan strengthens Formula E partnership with stake in e.dams" (Press release). Yokohama: Nissan. 2018-09-12. Retrieved 2018-10-24.
+^ Cobb, Jeff (2016-11-07). "China's BYD Becomes World's Third-Largest Plug-in Car Maker". HybridCars.com. Retrieved 2016-11-11.
+^ a b c "Best-selling China-made EVs in 2016". China Auto Web. 2017-01-19. Retrieved 2017-01-25. Three BYD Auto models topped the Chinese ranking of best-selling new energy passenger cars in 2016. The BYD Tang SUV was the top selling plug-in electric car in China in 2016 with 31,405 units sold, followed by the BYD Qin with 21,868 units sold, and ranking third overall in 2016 was the BYD e6 with 20,605 units.
+^ "Ventes Mensuelles" [Monthly Sales] (in French). Groupe Renault. January 2017. Retrieved 2017-01-18. Includes passenger and light utility variants. Click on "(décembre 2016)"
+to download the file "XLSX - 239 Ko" for CYTD sales in 2016, and open the tab "Sales by Model". Click on "+ Voir plus" (See more) to download the files "Ventes mensuelles du groupe (décembre 2011) (xls, 183 Ko)" "Ventes mensuelles (décembre 2012) (xls, 289 Ko)" - Ventes mensuelles (décembre 2013) (xlsx, 227 Ko)" - "XLSX - 220 Ko Ventes mensuelles (décembre 2014)"
+- "Ventes mensuelles (décembre 2015)" to download the file "XLSX - 227 Ko"
+for 2011, 2012, 2013, 2014 and 2015 sales. Sales figures for 2013 were revised in the 2014 report
+^ Autoactu.com. "Chiffres de vente & immatriculations de voitures électriques en France" [Sales figures & electric car registrations in France] (in French). Automobile Propre. Retrieved 2016-08-14. See "Ventes de voitures électriques en 2016/2015/2014/2013/2012/2011."
+^ "Monthly Plug-In Sales Scorecard". insideevs.com. Retrieved 2017-01-03.
+^ "2017 Focus Electric | View Focus Electric Highlights | Ford.com". www.ford.com. Archived from the original on 2017-01-05. Retrieved 2017-01-03.
+^ a b c "Ford Focus Electric Reviews - Ford Focus Electric Price, Photos, and Specs - Car and Driver". www.caranddriver.com. Retrieved 2017-01-03.
+^ Ross, Jeffrey N. (2012-10-03). "Smart ForTwo Electric Drive will be cheapest EV at $25,000*". Autoblog.com. Retrieved 2014-02-06.
+^ Pontes, Jose (2014-01-30). "World Top 20 December 2013 (Special Edition)". EV Sales. Retrieved 2014-02-06. A total of 4,130 third generation Smart EDs sold worldwide in 2013.
+^ Pontes, Jose (2014-07-30). "World Top 20 June 2014 (Special Edition)". EV Sales. Retrieved 2014-08-02. A total of 2,384 Smart EDs were sold worldwide in the first half of 2014.
+^ Tesla
+^ [5]
+^ [6]
+^ Pontes, Jose (2014-01-26). "Europe December 2013". EVSales.com. Retrieved 2014-05-10. A total of 1,465 e-ups! were sold in Europe 2013.
+^ "Nissan LEAF is the Best-Selling Electric Car in Europe For Fourth Year in a Row" (Press release). Rolle, Switzerland: Nissan GB. 2015-01-19. Retrieved 2015-12-07. A total of 5,365 e-ups! were sold in Europe in 2014..
+^ Pontes, Jose (2015-11-27). "Europe October 2015". EVSales.com. Retrieved 2015-12-05.
+^ Cole, Jay (2013-07-29). "BMW i3 Range Extender To Offer Up to 87 More Miles, Decreases Performance". InsideEVs.com. Retrieved 2013-07-29.
+^ U. S. Environmental Protection Agency and U.S. Department of Energy (2014-09-12). "2015 Kia Soul Electric". Fueleconomy.gov. Retrieved 2014-09-12.
+^ Pontes, Jose (2015-01-31). "Europe December 2014". EVSales.com. Retrieved 2015-12-05.
+^ Cobb, Jeff (2015-10-01). "Why Europe Has Passed the US As Number One In Plug-in Electrified Vehicles". HybridCars.com. Retrieved 2015-12-01. The top selling plug-in car in Europe during the first ten months of 2015 was the Mitsubishi Outlander P-HEV with 22,061 units. During this period the VW GTE sold 11,691 units and the Volvo V60 PHEV sold 4,185 units. As of October 2015[update], the Outlander P-HEV ranks as the all-time best selling PEV in Europe with over 50,000 units sold.
+^ Cobb, Jeff (2015-12-02). "November 2015 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2015-12-08.
+^ Cobb, Jeff (2015-01-06). "December 2014 Dashboard". HybridCars.com and Baum & Associates. Retrieved 2015-01-06. See sections: "December 2014 Plug-in Hybrid Car Sales Numbers" and "December 2014 Battery Electric Car Sales Numbers"
+^ VW Media Services (2014-02-15). "Volkswagen launches the battery-electric e-Golf in Germany; "Das e-Auto"". Green Car Congress. Retrieved 2014-02-16.
+^ U.S. Environmental Protection Agency and U.S. Department of Energy (2014-07-25). "2014 Mercedes-Benz B-Class Electric Drive". Fueleconomy.gov. Retrieved 2014-07-26.
+^ "Sales Ranking of China-made Pure-electric Cars in 2015". China Auto Web. 2016-01-14. Retrieved 2016-02-27.
+^ "Chevrolet Bolt EV Sales Numbers". GM Authority. Retrieved 2019-03-14.
+^ "2019 Bolt EV Electric Car: An Affordable All-Electric Car". Chevrolet. Retrieved 2019-03-14.
+^ "2019 Bolt EV Electric Car: An Affordable All-Electric Car". Chevrolet. Retrieved 2019-03-14.
+^ "Bolt EV for Sale: 2019 Bolt EV Pricing | Chevrolet". www.chevrolet.com. Retrieved 2019-03-14.
+^ Tesla
+^ [7]
+External links[edit]
+Alternative Fuel Vehicles Timeline
+An Extensive Electric Vehicle History
+Hybrid-Vehicle.org: Early Electric Cars
+Analysis by Richard H. Schallenberg for the IEEE Transactions on Education
+1997 Dissertation by David A. Kirsch, Stanford University
+"1955 Business Analysis of Early Electric Vehicles", John B. Rae, Associate Professor of History, MIT
+History And Directory Of Electric Cars From 1834 to 1987
+Short Electric, And Other Vehicle History
+Mikes Railway History, 1935: Electric Traction
+some Electric information as well
+SVE Website
+Electric Car Society
+EV World -US Internet Journal about EVs
+Timeline: History of the Electric Car, Public Broadcasting Service.
+Watch how much electric cars have changed over time in one GIF, Tech Insider, May 2016.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=History_of_the_electric_vehicle&oldid=888006500"
+Categories: Electric vehiclesHistoric electric vehiclesHidden categories: CS1 Spanish-language sources (es)CS1 French-language sources (fr)CS1 Norwegian-language sources (no)Articles containing potentially dated statements from June 2016All articles containing potentially dated statementsArticles containing potentially dated statements from November 2015Articles containing potentially dated statements from December 2016Articles containing potentially dated statements from December 2017Webarchive template wayback linksArticles containing potentially dated statements from October 2015Use dmy dates from February 2013Pages using multiple image with auto scaled imagesAll articles with unsourced statementsArticles with unsourced statements from September 2018Articles with unsourced statements from August 2009Articles with unsourced statements from December 2016Articles containing potentially dated statements from July 2006Articles containing potentially dated statements from January 2013Articles containing potentially dated statements from December 2012Articles containing potentially dated statements from June 2014Articles containing potentially dated statements from August 2015Articles containing potentially dated statements from June 2015Articles containing potentially dated statements from December 2015Articles containing potentially dated statements from April 2016Articles containing potentially dated statements from March 2016Articles containing potentially dated statements from May 2016Articles containing potentially dated statements from September 2018Articles containing potentially dated statements from July 2016Articles containing potentially dated statements from November 2017Articles containing potentially dated statements from October 2018
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+ArticleTalk
+Variants
+Views
+ReadEditView history
+More
 Search
-Search
-X
-Advanced Search
-Search
-Sign In
-Bag
-AND has just been revamped! We apologise if you face any inconvenience in exploring the new website.
-Real email address is required to social networks
-Please enter your email address below to create account.
-Email
-Submit
-User Login
-Forgot Your Password?
-Remember my password
-Login
-Sign In
-Sign in
-Easily using
-Or Using Email
-First Name
-Last Name
-Email
-Sign Up for Newsletter
-Date of Birth
-Gender
-Male
-Female
-Country
-Country Code
-AFGHANISTAN - 93
-ALBANIA - 355
-ALGERIA - 213
-AMERICAN SAMOA - 1684
-ANDORRA - 376
-ANGOLA - 244
-ANGUILLA - 1264
-AUSTRALIA - 61
-COCOS (KEELING) ISLANDS - 672
-ANTIGUA AND BARBUDA - 1268
-ARGENTINA - 54
-ARMENIA - 374
-ARUBA - 297
-CHRISTMAS ISLAND - 61
-AUSTRIA - 43
-AZERBAIJAN - 994
-BAHAMAS - 1242
-BAHRAIN - 973
-BANGLADESH - 880
-BARBADOS - 1246
-BELARUS - 375
-BELGIUM - 32
-BELIZE - 501
-BENIN - 229
-BERMUDA - 1441
-BHUTAN - 975
-BOLIVIA - 591
-BOSNIA AND HERZEGOVINA - 387
-BOTSWANA - 267
-BRAZIL - 55
-BRITISH INDIAN OCEAN TERRITORY - 246
-BRUNEI DARUSSALAM - 673
-BULGARIA - 359
-BURKINA FASO - 226
-BURUNDI - 257
-CAMBODIA - 855
-CAMEROON - 237
-CANADA - 1
-UNITED STATES MINOR OUTLYING ISLANDS - 1
-CAPE VERDE - 238
-CAYMAN ISLANDS - 1345
-CENTRAL AFRICAN REPUBLIC - 236
-CHAD - 235
-CHILE - 56
-CHINA - 86
-COLOMBIA - 57
-MAYOTTE - 269
-CONGO, THE DEMOCRATIC REPUBLIC OF THE - 242
-COOK ISLANDS - 682
-COSTA RICA - 506
-COTE D'IVOIRE - 225
-CROATIA - 385
-CUBA - 53
-CYPRUS - 357
-CZECH REPUBLIC - 420
-DENMARK - 45
-DJIBOUTI - 253
-DOMINICA - 1767
-DOMINICAN REPUBLIC - 1809
-ECUADOR - 593
-EGYPT - 20
-EL SALVADOR - 503
-EQUATORIAL GUINEA - 240
-ERITREA - 291
-ESTONIA - 372
-ETHIOPIA - 251
-FALKLAND ISLANDS (MALVINAS) - 500
-FAROE ISLANDS - 298
-FIJI - 679
-FINLAND - 358
-FRANCE - 33
-FRENCH GUIANA - 594
-FRENCH POLYNESIA - 689
-GABON - 241
-GAMBIA - 220
-GEORGIA - 995
-GERMANY - 49
-GHANA - 233
-GIBRALTAR - 350
-GREECE - 30
-GREENLAND - 299
-GRENADA - 1473
-GUADELOUPE - 590
-GUAM - 1671
-GUATEMALA - 502
-GUINEA - 224
-GUINEA-BISSAU - 245
-GUYANA - 592
-HAITI - 509
-ITALY - 39
-HONDURAS - 504
-HONG KONG - 852
-HUNGARY - 36
-ICELAND - 354
-INDIA - 91
-INDONESIA - 62
-IRAN, ISLAMIC REPUBLIC OF - 98
-IRAQ - 964
-IRELAND - 353
-ISRAEL - 972
-JAMAICA - 1876
-JAPAN - 81
-JORDAN - 962
-KAZAKHSTAN - 7
-KENYA - 254
-KIRIBATI - 686
-KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF - 850
-KOREA, REPUBLIC OF - 82
-KUWAIT - 965
-KYRGYZSTAN - 996
-LAO PEOPLE'S DEMOCRATIC REPUBLIC - 856
-LATVIA - 371
-LEBANON - 961
-LESOTHO - 266
-LIBERIA - 231
-LIBYAN ARAB JAMAHIRIYA - 218
-LIECHTENSTEIN - 423
-LITHUANIA - 370
-LUXEMBOURG - 352
-MACAO - 853
-MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF - 389
-MADAGASCAR - 261
-MALAWI - 265
-MALAYSIA - 60
-MALDIVES - 960
-MALI - 223
-MALTA - 356
-MARSHALL ISLANDS - 692
-MARTINIQUE - 596
-MAURITANIA - 222
-MEXICO - 52
-MICRONESIA, FEDERATED STATES OF - 691
-MOLDOVA, REPUBLIC OF - 373
-MONACO - 377
-MONGOLIA - 976
-MONTSERRAT - 1664
-WESTERN SAHARA - 212
-MOZAMBIQUE - 258
-MYANMAR - 95
-NAMIBIA - 264
-NAURU - 674
-NEPAL - 977
-NETHERLANDS - 31
-NETHERLANDS ANTILLES - 599
-NEW CALEDONIA - 687
-NEW ZEALAND - 64
-NICARAGUA - 505
-NIGER - 227
-NIGERIA - 234
-NIUE - 683
-NORTHERN MARIANA ISLANDS - 1670
-SVALBARD AND JAN MAYEN - 47
-OMAN - 968
-PAKISTAN - 92
-PALAU - 680
-PALESTINIAN TERRITORY, OCCUPIED - 970
-PANAMA - 507
-PAPUA NEW GUINEA - 675
-PARAGUAY - 595
-PERU - 51
-PHILIPPINES - 63
-POLAND - 48
-PORTUGAL - 351
-PUERTO RICO - 1787
-QATAR - 974
-REUNION - 262
-ROMANIA - 40
-RWANDA - 250
-SAINT HELENA - 290
-SAINT KITTS AND NEVIS - 1869
-SAINT LUCIA - 1758
-SAINT PIERRE AND MIQUELON - 508
-SAINT VINCENT AND THE GRENADINES - 1784
-SAMOA - 684
-SAN MARINO - 378
-SAO TOME AND PRINCIPE - 239
-SAUDI ARABIA - 966
-SENEGAL - 221
-SERBIA AND MONTENEGRO - 381
-SEYCHELLES - 248
-SIERRA LEONE - 232
-SINGAPORE - 65
-SLOVAKIA - 421
-SLOVENIA - 386
-SOLOMON ISLANDS - 677
-SOMALIA - 252
-SOUTH AFRICA - 27
-SPAIN - 34
-SRI LANKA - 94
-SUDAN - 249
-SURINAME - 597
-SWAZILAND - 268
-SWEDEN - 46
-SWITZERLAND - 41
-SYRIAN ARAB REPUBLIC - 963
-TAIWAN, PROVINCE OF CHINA - 886
-TAJIKISTAN - 992
-TANZANIA, UNITED REPUBLIC OF - 255
-THAILAND - 66
-TIMOR-LESTE - 670
-TOGO - 228
-TOKELAU - 690
-TONGA - 676
-TRINIDAD AND TOBAGO - 1868
-TUNISIA - 216
-TURKEY - 90
-TURKMENISTAN - 7370
-TURKS AND CAICOS ISLANDS - 1649
-TUVALU - 688
-UGANDA - 256
-UKRAINE - 380
-UNITED ARAB EMIRATES - 971
-UNITED KINGDOM - 44
-URUGUAY - 598
-UZBEKISTAN - 998
-VANUATU - 678
-VENEZUELA - 58
-VIET NAM - 84
-VIRGIN ISLANDS, BRITISH - 1284
-VIRGIN ISLANDS, U.S. - 1340
-WALLIS AND FUTUNA - 681
-YEMEN - 967
-ZAMBIA - 260
-ZIMBABWE - 263
-Mobile
-Password
-Confirm Password
-Register
-Already have an account? Login
-Forgot Password
-Please enter your email address below to receive a password reset link.
-Email
-Submit
-Go back
-New In
-SUMMER' 19
-X
-LookBook
-explore
-#ANDiRise
-Explore
-#ANDIMPACT
-Explore
-Celebrity Spotting
-AND India Presents Uber-Chic Ladies’ Wear
-Contemporary ladies’ fashion is all about combining the right amount of panache and comfort to create a symphony of style. It is a medley of colours, patterns, cuts, and fabrics put together to lend an individualistic expression to the wearer. At AND, we focus on delivering the most stylish range of western wear for women, on par with international standards.
-AND’s brand vision focuses on providing the modern Indian woman with stylish and comfortable wear that is in sync with her persona. AND’s collection of clothing for women includes the entire spectrum of western wear – tops for women, dresses for women, and ladies’ gowns.
-The dresses are a fusion of trendy and sophisticated, guaranteed to make you look and feel like a diva. Don them at a dinner party or formal event, and rest assured that you’ll be the cynosure of all eyes. Take a pick from our extensive range of tops, designed to infuse elegance to your daily looks. Be it a daily-wear casual top or a party-wear top that you’re looking for, you’ll find them all at our online store. For a cocktail party, pick one of our flowing gowns to exude sophistication, without appearing overtly formal. You may choose from a vast collection of bottom wear at AND as well to complete your looks; match your favourite tops with trendy trousers, skirts, and denims. Available in different prints, hues, and sizes, AND clothing has universal appeal and caters to all tastes.
-But women’s fashion doesn’t end at clothing at AND India. There is a versatile range of accessories to choose from at AND, including ladies’ footwear, bags, and jewellery – all designed to add finishing touches to your dream look. With AND India’s distinctly contemporary range of footwear, you get unparalleled comfort, along with extraordinary style.
-No accessory collection is complete without bags, an indispensable article for women of today. AND India’s bags for women are available in a variety of designs and therefore, suitable for a gamut of occasions ranging from casual to formal.
-A far cry from the typical cosmetic jewellery, AND India’s jewellery collection includes earrings, necklaces, and bracelets in unique, contemporary designs that will beautifully complement your western outfits. The brand’s ultra-stylish sunglasses are again, sure to catch the fancy of the discerning fashionista.
-A leading online shopping site for women, AND India has something for everyone, no matter what your age, shape, size, and personal style. AND India offers not just every single fashion-related article under one roof, the brand’s products are set apart by great quality and fantastic appearance. So, start browsing through our online store to find clothes and accessories that’ll add value to your wardrobe.
-OUR STORY
-Make an unforgettable impression with AND’s sharp silhouettes, soft hues and confident statements. Every perfectly crafted piece strikes the delicate balance between contemporary style and classic charm. With its stunning, sophisticated western-wear, AND turns everyday living into your everyday runway.
-Sign Up for Newsletter
-Select Store
-AND
-AND Others
-Styles
-new in
-Lookbook
-dresses
-Shirts & Tops
-tunics
-bottoms
-accessories
-gift card
-CORPORATE
-Brand profile
-Company profile
-Awards & Recognitions
-Sustainability
-Career
-ShOpping POLICIES
-Secure Shopping
-Privacy Policy
-Terms & Conditions
-Loyalty & Registration T&C
-Faq
-Sitemap
-store locator
-return/exchanges
-contact us
-Customs Duty
-Blog
-Go to top
-X
-© 2019 House of Anita Dongre
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+DeutschFrançaisItalianoRomânăSuomi
+Edit links
+This page was last edited on 16 March 2019, at 08:27 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
