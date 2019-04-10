@@ -1,41 +1,44 @@
+#plag-check using only the first url...fast but not accurate a bit...
 import getURL
 import webSearch
-# import compareContent
 import comparefuzzy
 
-content = open("fileInputContent.txt","r+")
-matched = open("matchedSources.txt","w+")
-linecount=0
-# plagflag=0
-plagper=0
+content = open("fileInputContent.txt","r+")	#user data importing...
+matched = open("matchedSources.txt","w+")	#to write the matched sources or urls...
+highlight = open("highlightedText.txt","w+")	#to write the text with plagiarised content marked...
 
-for contentline in content:
+linecount=0	#keeps a line count
+plagper=0	#finds the plagiarism percentage
 
-	linecount+=1
+for contentline in content:	#going through each line in the user data
 
-	# URLsToCheck = [None]*3	#For checking first 3 URLs
-	URLsToCheck = None
-	URLsToCheck = getURL.URLFinder(contentline)
+	if(contentline!="\n"):	#get rid of unrequired lines read
+		
+		linecount+=1	#keep a count of content lines 
 
-	# for j in range(3):
-	# if(URLsToCheck[j]!=None):
-	if(URLsToCheck!=None):
-		# print("Checking: "+URLsToCheck[j]+"\n")
-		# webSearch.searchResults(URLsToCheck[j])
-		webSearch.searchResults(URLsToCheck)
-		# print("Scrapped Text from "+URLsToCheck[j]+"\n")
-	# if(compareContent.check(contentline)):
-	# 	# print("A Plag Found!!!...\n")
-	# 	plagflag+=1
-	# 	break
-	somevar =comparefuzzy.check(contentline)
-	plagper += somevar
-	if(somevar>70): matched.write("Line-"+str(linecount)+"::"+URLsToCheck+"\n")
+		URLsToCheck = None#variable to store url found
+		URLsToCheck = getURL.URLFinder(contentline)	#finds the url
 
-plagper /= linecount
-# plagper *= 100
-# print("Percentage Plagiarised = "+ str(plagper) +"%\n")
-print(str(plagper))
-# print("Percentage Unique = "+ str(100-plagper) +"%\n\n")
+		somevar=0	#a flag variable
+
+		if(URLsToCheck!=None):
+			webSearch.searchResults(URLsToCheck)	#scraps from the url
+			somevar = comparefuzzy.check(contentline)	#compares with the scraped data
+			if(somevar>85):
+				plagper += 100	#kept a threshold value of 85% as per the performance of the algo seen before
+
+				matched.write("Line-"+str(linecount)+"::"+URLsToCheck+"\n")	#writing for matched sources
+				highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
+			else:
+				plagper += somevar
+
+				highlight.write(contentline)	#writing non-highlighted
+
+#NOTE: But to decide whether a Document is Plagiarised or Not, we have kept a threshold value of 70%...or as per the user...
+
+plagper /= linecount	#getting the percentage
+print(str(plagper))	#print the result
+#closing the streams...
+highlight.close()
 matched.close()
 content.close()
