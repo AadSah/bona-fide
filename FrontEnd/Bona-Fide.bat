@@ -1,1 +1,0 @@
-java -jar "Bona-Fide\dist\Bona-Fide.jar"
