@@ -4,8 +4,8 @@ Software Engineering Project for Spring Semester 2019 @ IITKGP:)
 
 The software uses java and python3 libraries to search for the plagiarism of the text.
 
-Python libraries and how to install:
-1.BeautifulSoup : pip install beautifulsoup4
+Python libraries and how to install:<br/>
+1.BeautifulSoup : pip install beautifulsoup4<br/>
 2.google        : pip install google
 3.fuzzywuzzy    : pip install fuzzywuzzy
 
