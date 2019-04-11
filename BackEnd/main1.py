@@ -1,9 +1,9 @@
 #plag-check using only the first url...fast but not accurate a bit...
-import getURL
+import getURL1
 import webSearch
 import comparefuzzy
 
-content = open("fileInputContent.txt","r+")	#user data importing...
+content = open("MyTestFile.txt","r+")	#user data importing...
 matched = open("matchedSources.txt","w+")	#to write the matched sources or urls...
 highlight = open("highlightedText.txt","w+")	#to write the text with plagiarised content marked...
 
@@ -16,7 +16,7 @@ for contentline in content:	#going through each line in the user data
 		linecount+=1	#keep a count of content lines 
 
 		URLsToCheck = None#variable to store url found
-		URLsToCheck = getURL.URLFinder(contentline)	#finds the url
+		URLsToCheck = getURL1.URLFinder(contentline)	#finds the url
 
 		somevar=0	#a flag variable
 
@@ -28,7 +28,7 @@ for contentline in content:	#going through each line in the user data
 
 				matched.write("Line-"+str(linecount)+"::"+URLsToCheck+"\n")	#writing for matched sources
 				# highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
-				highlight.write(contentline.upper())
+				highlight.write(contentline.upper() + "{" + URLsToCheck + "}\n")
 			else:
 				plagper += somevar
 

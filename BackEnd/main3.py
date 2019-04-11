@@ -3,7 +3,7 @@ import getURL3
 import webSearch
 import comparefuzzy
 
-content = open("fileInputContent.txt","r+")	#user data importing...
+content = open("MyTestFile.txt","r+")	#user data importing...
 matched = open("matchedSources.txt","w+")	#to write the matched sources or urls...
 highlight = open("highlightedText.txt","w+")	#to write the text with plagiarised content marked...
 
@@ -30,13 +30,15 @@ for contentline in content:	#going through each line in the user data
 					maxval = tempval
 					maxurl = URLsToCheck[j]
 					tempval = 0
+				if(maxval>85):
+					break
 			
 		if(maxval>85):	#85%...a threshold value for Levenshtein Distance...
 			plagper += 100	#kept a threshold value of 85% as per the performance of the algo seen before
 
 			matched.write("Line-"+str(linecount)+"::"+maxurl+"\n")	#writing for matched sources
 			# highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
-			highlight.write(contentline.upper())
+			highlight.write(contentline.upper() + "{" + maxurl + "}\n")
 		else:
 			plagper += maxval
 
