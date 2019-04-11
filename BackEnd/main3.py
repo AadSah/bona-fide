@@ -31,18 +31,21 @@ for contentline in content:	#going through each line in the user data
 					maxurl = URLsToCheck[j]
 					tempval = 0
 			
-		if(maxval>85):	#85%...a threshold value
+		if(maxval>85):	#85%...a threshold value for Levenshtein Distance...
 			plagper += 100	#kept a threshold value of 85% as per the performance of the algo seen before
 
 			matched.write("Line-"+str(linecount)+"::"+maxurl+"\n")	#writing for matched sources
-			highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
+			# highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
+			highlight.write(contentline.upper())
 		else:
 			plagper += maxval
 
 			highlight.write(contentline)	#writing non-highlighted
 
 plagper /= linecount	#getting the percentage
-print(str(plagper))	#print the result
+uniper = 100 - plagper
+print("{:.2f}".format(plagper)+"%")	#print the result
+print("{:.2f}".format(uniper)+"%")	#print the result
 #closing the streams...
 highlight.close()
 matched.close()

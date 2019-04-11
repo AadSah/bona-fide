@@ -7,13 +7,12 @@ import urllib.request
 def searchResults(link):
 	try:
 		urlname = link	#The URL name of the webpage you want to scrap
-	# with urllib.request.urlopen("https://en.wikipedia.org/wiki/Plagiarism") as url:
 		url = urllib.request.urlopen(urlname)	#The URL of the webpage you want to scrap
 		html = url.read()	#reads the HTML Code
 
 		soup = BeautifulSoup(html)	#parses the HTML Code
 
-	#Delete all script and style elements
+		#Delete all script and style elements
 		for script in soup(["script", "style"]):
 		    script.extract()    #rip it out
 
@@ -27,11 +26,8 @@ def searchResults(link):
 
 	######   Now write the parsed text to a file   ##########
 		outfile = open("extractedTextFromURL.txt","w+")
-	# outfile.write(urlname+"\n")
 		outfile.write(text)
 	#########################################################
 		outfile.close()
-	# print(text)	#Prints the Text Extracted
 	except:
-		# print("Some URL Access Error Occured!!!\n")
 		pass

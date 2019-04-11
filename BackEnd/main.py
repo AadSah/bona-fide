@@ -9,7 +9,6 @@ highlight = open("highlightedText.txt","w+")	#to write the text with plagiarised
 
 linecount=0	#keeps a line count
 plagper=0	#finds the plagiarism percentage
-
 for contentline in content:	#going through each line in the user data
 
 	if(contentline!="\n"):	#get rid of unrequired lines read
@@ -25,10 +24,11 @@ for contentline in content:	#going through each line in the user data
 			webSearch.searchResults(URLsToCheck)	#scraps from the url
 			somevar = comparefuzzy.check(contentline)	#compares with the scraped data
 			if(somevar>85):
-				plagper += 100	#kept a threshold value of 85% as per the performance of the algo seen before
+				plagper += 100	#kept a threshold value of 85% as per the performance of the algo seen before...for Levenshtein Distance
 
 				matched.write("Line-"+str(linecount)+"::"+URLsToCheck+"\n")	#writing for matched sources
-				highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
+				# highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
+				highlight.write(contentline.upper())
 			else:
 				plagper += somevar
 
@@ -37,7 +37,9 @@ for contentline in content:	#going through each line in the user data
 #NOTE: But to decide whether a Document is Plagiarised or Not, we have kept a threshold value of 70%...or as per the user...
 
 plagper /= linecount	#getting the percentage
-print(str(plagper))	#print the result
+uniper = 100 - plagper
+print("{:.2f}".format(plagper)+"%")	#print the result
+print("{:.2f}".format(uniper)+"%")	#print the result
 #closing the streams...
 highlight.close()
 matched.close()

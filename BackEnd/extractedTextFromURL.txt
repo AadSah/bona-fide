@@ -1,52 +1,1123 @@
-Yojana takes a back seat
-My Profile Logout
+css - How to disable text selection highlighting? - Stack Overflow
+Stack Overflow
 Log In
-/
 Sign Up
-Home
-Opinion
-India
-World
-Business
-Science
-Technology
-Health
-Sport
-Cricket Football Horse Racing
-Entertainment
-Culture
-Books Food Travel Style Arts People Heritage
-States
-West Bengal North East Jharkhand
-E- paper
+current community
+Stack Overflow
+help
+chat
+Meta Stack Overflow
+your communities
+Sign up or log in to customize your list.
+more stack exchange communities
+company blog
+Tour
+Start here for a quick overview of the site
+Help Center
+Detailed answers to any questions you might have
+Meta
+Discuss the workings and policies of this site
 About Us
-Odisha
-Yojana takes a back seat Many in Golrahaat gram panchayat know little about the Sansad Adarsh Gram Yojana with not much of progress being made in the MP model village scheme.
-By Manoj Kar
-Published 14.09.16
-&nbsp
-Partially-built community toilets under Adarsh Gram Yojana at Golrahaat gram panchayat. Telegraph picture
-Paradip, Sept. 13: Many in Golrahaat gram panchayat know little about the Sansad Adarsh Gram Yojana with not much of progress being made in the MP model village scheme. "We do not even know that our village has been adopted for being developed as a model village. Projects are carried out every year from panchayat funds. However, I do not find anything special taking place at our village. Nothing tangible seems to have occurred in the name of the yojana," said Golrahaat villager Harish Mohanty. Kendrapara MP Baijayant Panda had adopted Golrahaat under the model village scheme. Another villager, Bipin Behari Sahu, said the area was already quite developed with a college, schools, banks and a police station besides a fire station. "The government hospital is also located in the neighbourhood. The village has good roads connected to the national highway. After our panchayat was covered under the yojana two years ago, our hopes had soared, but the progress of the scheme is not satisfying," said Sahu. Golrahaat sarpanch Trilochan Rout spoke in the same vein. "As many as 43 projects were lined up for implementation under the yojana. However, there has been inordinate delay in the release of funds. Government agencies have released funds partially only three months ago. The departments are also not evincing interest in the project. Had officials been sincere, work would have made considerable progress by now," said Rout.
-Kendrapara MP  Baijayant Panda
-Despite constraints, a concrete platform for paddy threshing worth Rs 8 lakh is now ready for the use of farmers. Besides, construction of a mini stadium has come been completed. The gram panchayat office also has Internet connectivity. However, 40 other projects have not made any significant progress. "Construction of community toilets, community hall, and an overhead water supply tank has begun. We are waiting for funds for work to start on other projects," said Rout. The comparatively developed gram panchayat, which boasts of a nationalised bank and a gramin bank branch, a government-aided college, a high school and eight primary schools, has a population of 5,100 people. The agrarian belt also enjoys adequate canal irrigation network and good road connectivity. A community health centre is about 1km away from the gram panchayat office, while a government-run ITI is located closed to it. Kendrapara collector Debraj Senapati said: "Delay in the release of funds has affected the yojana projects. However, we are expediting its progress. The block development officer has been asked to review the progress periodically." Derabish block development officer Krushna Chandra Sethy said: "Delay in project work was due to non-release of funds. Now, the projects are back on track as funds are being steadily released by the line departments concerned." However, many have questioned the selection of Golarhaat for MP's model village scheme. "The yojana intends to improve the standard of living and quality of life of the selected village and also develop infrastructure there. But Golarhaat is already a developed area. There are many areas in the district that are cut off from development. It would have been better had the MP adopted a really backward village under the scheme," said social activist Ganesh Chandra Samal. Panda could not be contacted despite repeated attempts.
-Send us feedback
-Trending
-1. India could attack, says Pakistan; Delhi hears terror call
-2. Hurriyat Conference chairman Mirwaiz Umer Farooq appears before NIA in terror funding case
-3. After Sunday church service, YSR Congress candidate seeks vote
-4. Why is the BJP so focused on Rajnath Singh while sidelining other senior leaders?
-5. Political ad spend on Facebook crosses Rs 10 cr, BJP ads lead
-More from Odisha
-Fly over Bhubaneswar traffic mess from January
-States
-Former Maoist rebels get some hockey time in Bhubaneswar
-States
-Urban mobility shifts gear in Bhubaneswar
-States
-Bird flu: Govt orders culling of chicken in 4 villages in Puri district
-States
-The Telegraph About Us Contact Us Terms of use Privacy Policy
-Links Home Opinion India World Business Science Technology Health Sport Entertainment Culture
-Group Websites Fortune India Anandabazar Patrika Ebela
-Copyright © 2017 The Telegraph. All rights reserved.
-Follow us on
+Learn more about Stack Overflow the company
+Business
+Learn more about hiring developers or posting ads with us
+By using our site, you acknowledge that you have read and understand our Cookie Policy, Privacy Policy, and our Terms of Service.
+The results are in! See what nearly 90,000 developers picked as their most loved, dreaded, and desired coding languages and more in the 2019 Developer Survey.
+Home
+Public
+Stack Overflow
+Tags
+Users
+Jobs
+Teams
+Q&A for work
+Learn More
+How to disable text selection highlighting?
+Ask Question
+4682
+1220
+For anchors that act like buttons (for example, Questions, Tags, Users, etc. at the top of the Stack Overflow page) or tabs, is there a CSS standard way to disable the highlighting effect if the user accidentally selects the text?
+I realize this could be done with JavaScript, and a little googling yielded the Mozilla-only -moz-user-select option.
+Is there a standard-compliant way to accomplish this with CSS, and if not, what is the "best practice" approach?
+css cross-browser highlighting textselection
+share|improve this question
+edited Dec 20 '17 at 14:00
+Paolo Forgia
+4,72762850
+asked May 5 '09 at 20:29
+anon
+7
+can elements within the element witch has highlighting disabled, have highlighting enabled with in css in the style or class attribute? or in other words, are there other values for -webkit-user-select ect. other than just none?
+– user659576
+Mar 14 '11 at 21:18
+6
+Related: stackoverflow.com/questions/16600479/… = how to allow only some of the child elements to be selected
+– JK.
+May 17 '13 at 2:36
+8
+There a bug in some browsers where doing "Select All" (CTRL+A and CMD+A) still selects things. This can be fought with a transparent selection color:
+::selection { background: transparent; } ::-moz-selection { background: transparent; }
+– DaAwesomeP
+Dec 12 '14 at 1:03
+4
+Can I just say: please don't do this. From my experience, I more often than not acctually want to select some text that also serves as a button, to copy-paste it somewhere else. It would be unimaginably infuriating not to be able to do that because some web developer went out of their way to purpousely disable this feature for me. So please don't do this unless you have a very, very good reason.
+– kajacx
+Aug 30 '16 at 20:10
+1
+@cram2208 I agree except the other question linked is the duplicate. This question is older and has more/better answers.
+– www139
+Dec 15 '16 at 19:14
+|
+show 2 more comments
+40 Answers
+40
+active
+oldest
+votes
+1
+2
+next
+6775
++50
+UPDATE January, 2017:
+According to Can I use, the user-select is currently supported in all browsers except Internet Explorer 9 and earlier versions (but sadly still needs a vendor prefix).
+All of the correct CSS variations are:
+.noselect {
+-webkit-touch-callout: none; /* iOS Safari */
+-webkit-user-select: none; /* Safari */
+-khtml-user-select: none; /* Konqueror HTML */
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* Internet Explorer/Edge */
+user-select: none; /* Non-prefixed version, currently
+supported by Chrome and Opera */
+}
+<p>
+Selectable text.
+</p>
+<p class="noselect">
+Unselectable text.
+</p>
+Note that it's a non-standard feature (i.e. not a part of any specification). It is not guaranteed to work everywhere, and there might be differences in implementation among browsers and in the future browsers can drop support for it.
+More information can be found in Mozilla Developer Network documentation.
+share|improve this answer
+edited Oct 31 '18 at 15:02
+community wiki
+31 revs, 18 users 25%Blowsie
+36
+nice code molokoloco :D , although I personally would stay well away from using it, as sometimes you may need the values different for different browsers, and it relys on JavaScript. Making a class and adding it to your element or applying the css to your type of element in your style-sheet is pretty bullet proof.
+– Blowsie
+Jan 14 '11 at 13:07
+53
+'user-select'- Values:	none | text | toggle | element | elements | all | inherit - w3.org/TR/2000/WD-css3-userint-20000216
+– Blowsie
+Mar 21 '11 at 9:44
+34
+Actually -o-user-select isn't implemented in Opera. It implements IE's unselectable attribute instead.
+– Tim Down
+Jul 3 '11 at 10:52
+30
+For some reason, this alone wasnt working in IE8, I then added <div onselectstart="return false;"> to my main div.
+– robasta
+Jan 20 '12 at 8:11
+288
+this is ridiculous! so many different ways to do the same thing. let's make a new standard for user selects. we will call it standard-user-select. then we won't have these problems. although for backwards compatibility we should include the others as well. so now the code becomes -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; standard-user-select: none;. ah, much better.
+– Claudiu
+Sep 4 '12 at 16:19
+|
+show 44 more comments
+785
++50
+In most browsers, this can be achieved using proprietary variations on the CSS user-select property, originally proposed and then abandoned in CSS3 and now proposed in CSS UI Level 4:
+*.unselectable {
+-moz-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+/*
+Introduced in IE 10.
+See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+*/
+-ms-user-select: none;
+user-select: none;
+}
+For IE < 10 and Opera < 15, you will need to use the unselectable attribute of the element you wish to be unselectable. You can set this using an attribute in HTML:
+<div id="foo" unselectable="on" class="unselectable">...</div>
+Sadly this property isn't inherited, meaning you have to put an attribute in the start tag of every element inside the <div>. If this is a problem, you could instead use JavaScript to do this recursively for an element's descendants:
+function makeUnselectable(node) {
+if (node.nodeType == 1) {
+node.setAttribute("unselectable", "on");
+}
+var child = node.firstChild;
+while (child) {
+makeUnselectable(child);
+child = child.nextSibling;
+}
+}
+makeUnselectable(document.getElementById("foo"));
+Update 30 April 2014: This tree traversal needs to be re-run whenever a new element is added to the tree, but it seems from a comment by @Han that it is possible to avoid this by
+adding a mousedown event handler that sets unselectable on the target of the event. See http://jsbin.com/yagekiji/1 for details.
+This still doesn't cover all possibilities. While it is impossible to initiate selections in unselectable elements, in some browsers (IE and Firefox, for example) it's still impossible to prevent selections that start before and end after the unselectable element without making the whole document unselectable.
+share|improve this answer
+edited Aug 3 '15 at 8:51
+answered Dec 5 '10 at 11:45
+Tim DownTim Down
+254k58384469
+29
+you should remove the * selector from your example, its really in-efficient and there really isnt any need to use it in your example is there?
+– Blowsie
+Jan 14 '11 at 13:15
+65
+@Blowsie: I don't think so: the CSS 2 spec states that *.foo and .foo are precisely equivalent (in the second case, the universal selector (*) is implied), so barring browser quirks, I can't see that including the * will harm performance. It's a long-standing habit of mine to include the *, which I originally started doing for readability: it explicitly states at a glance that the author intends to match all elements.
+– Tim Down
+Jan 14 '11 at 13:24
+37
+oooh after some further reading, it seems * is only un-effiecient when using it as the key (the righmost selector) ie .unselectable * . Further info here code.google.com/speed/page-speed/docs/…
+– Blowsie
+Jan 14 '11 at 13:49
+19
+Instead of using the class="unselectable", just use the attribute selector [unselectable="on"] { … }
+– Chris Calo
+Jan 26 '12 at 19:39
+13
+@Francisc: No. As I said to Blowsie earlier in the comments, it makes precisely no difference.
+– Tim Down
+Apr 25 '12 at 9:32
+|
+show 21 more comments
+179
+A JavaScript solution for IE is
+onselectstart="return false;"
+share|improve this answer
+edited Mar 28 '12 at 20:10
+Joe
+62.2k14104131
+answered Nov 13 '09 at 16:05
+Pekka 웃Pekka 웃
+361k1198471018
+51
+Don’t forget about ondragstart!
+– Mathias Bynens
+May 26 '10 at 13:25
+9
+one more thing here. If you add that to the body then you won't be able to select text inside textareas or input fields in IE. The way I fixed it for IE . body.onselectstart = function(e) {
+if (e.target.nodeName != "INPUT" && e.target.nodeName != "TEXTAREA") {
+e.preventDefault();
+return false;
+}
+return true;
+}
+– TheBrain
+May 30 '13 at 16:56
+2
+This can be added as an attribute using jQuery - $("p").attr("onselectstart","return false")
+This was the only reliable method for me in IE8
+– Matt
+Jun 5 '13 at 15:06
+5
+why I have use javascript when I have multi css solutions!..
+– Abudayah
+Oct 31 '13 at 10:43
+12
+@Abudayah because they don't work in older versions of Internet Explorer? That's, like, the entire point of this answer.
+– Pekka 웃
+Oct 31 '13 at 13:27
+add a comment |
+174
+Until CSS 3's user-select property becomes available, Gecko-based browsers support the -moz-user-select property you already found. WebKit and Blink-based browsers support the -webkit-user-select property.
+This of course is not supported in browsers that do not use the Gecko rendering engine.
+There is no "standards" compliant quick-and-easy way to do it; using JavaScript is an option.
+The real question is, why do you want users to not be able to highlight and presumably copy and paste certain elements? I have not come across a single time that I wanted to not let users highlight a certain portion of my website. Several of my friends, after spending many hours reading and writing code will use the highlight feature as a way to remember where on the page they were, or providing a marker so that their eyes know where to look next.
+The only place I could see this being useful is if you have buttons for forms that should not be copy and pasted if a user copy and pasted the website.
+share|improve this answer
+edited Apr 17 '16 at 5:17
+Peter Mortensen
+13.9k1987113
+answered May 5 '09 at 20:37
+X-IstenceX-Istence
+13k64470
+18
+The buttons thing would be exactly my motivation.
+– Kriem
+May 5 '09 at 20:47
+26
+Another reason this is needed is Shift-clicking to select multiple rows in a grid or table. You don't want to to highlight the text, you want it to select the rows.
+– Gordon Tucker
+Jan 6 '10 at 16:08
+7
+There are also legal issues where someone else's content is being legally republished but a clause in the license requires web publishers to prevent text from being easily copied and pasted. This is what led me to find this question. I don't agree with the requirement but the company I'm contracting for is legally obligated to implement it this way.
+– Craig M
+Mar 15 '11 at 20:34
+5
+@CraigM The css style doesn't stop a person from grabbing the HTML source and copying it. If you want to protect your content you'll have to find better ways.
+– Agile Jedi
+Dec 26 '13 at 23:25
+25
+Highly interactive web app with a lot of drag & drop... accidental highlighting is a big usability problem.
+– Marc Hughes
+Jun 3 '14 at 21:08
+|
+show 12 more comments
+127
+If you want to disable text selection on everything except on <p> elements, you can do this in CSS (watch out for the -moz-none which allows override in sub-elements, which is allowed in other browsers with none):
+* {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: -moz-none;
+-o-user-select: none;
+user-select: none;
+}
+p {
+-webkit-user-select: text;
+-khtml-user-select: text;
+-moz-user-select: text;
+-o-user-select: text;
+user-select: text;
+}
+share|improve this answer
+edited Oct 29 '13 at 17:09
+James Donnelly
+101k22158174
+answered May 24 '11 at 21:24
+Benjamin CrouzierBenjamin Crouzier
+23.8k31125188
+11
+Make sure you also make input fields selectable:
+p, input { -webkit-user-select: text; -khtml-user-select: text; -moz-user-select: text; -o-user-select: text; user-select: text; }
+– joshuadelange
+Jul 7 '11 at 22:39
+11
+Be very wary about turning off browser UI expectations on ALL code except for one item.
+What about list items <li /> text, for example?
+– Jason T Featheringham
+Nov 12 '11 at 7:13
+Just an update... according to MDN since Firefox 21 -moz-none and none are the same.
+– Kevin Fegan
+Dec 25 '13 at 15:56
+2
+For this you may add cursor:default and cursor:text respectively : )
+– T4NK3R
+Jul 14 '14 at 17:14
+add a comment |
+116
+In the above solutions selection is stopped, but the user still thinks you can select text because the cursor still changes. To keep it static, you'll have to set your CSS cursor:
+.noselect {
+cursor: default;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+<p>
+Selectable text.
+</p>
+<p class="noselect">
+Unselectable text.
+</p>
+This will make your text totally flat, like it would be in a desktop application.
+share|improve this answer
+edited Sep 10 '16 at 4:18
+answered Aug 30 '15 at 18:32
+ZECTBynmoZECTBynmo
+1,77421629
+"Flat" as opposed to what?
+– kojow7
+Feb 9 '18 at 20:55
+@kojow7 As opposed to "layered". Instead of text floating on top of the other elements. It is similar to the difference between SVG and PNG images.
+– Yeti
+Sep 19 '18 at 9:35
+add a comment |
+104
+You can do so in Firefox and Safari (Chrome also?)
+::selection { background: transparent; }
+::-moz-selection { background: transparent; }
+share|improve this answer
+edited Oct 29 '13 at 17:09
+James Donnelly
+101k22158174
+answered May 5 '09 at 20:46
+seanmonstarseanmonstar
+9,95021525
+111
+I wouldn't recommend doing this, because it doesn't actually fix the issue; disabling text selection - it merely hides it. This can lead to bad usability, because if I drag my cursor around the page I could be selecting any arbitrary text without knowing it. This can cause all kinds of weird usability "bugs".
+– Keithamus
+Feb 2 '11 at 15:01
+1
+Doesn't work on PNG-images with transparent areas: The will always select in a light blue… Any workaround?
+– AvL
+Sep 18 '13 at 21:12
+add a comment |
+76
+Workaround for WebKit:
+/* Disable tap highlighting */
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+I found it in a CardFlip example.
+share|improve this answer
+edited Oct 29 '13 at 17:09
+James Donnelly
+101k22158174
+answered Sep 21 '11 at 7:09
+AlexAlex
+77953
+1
+Using transparent in lieu of rgba also works in Chrome 42 on Android.
+– Clint Pachl
+Apr 29 '15 at 20:46
+add a comment |
+68
+I like the hybrid CSS + jQuery solution.
+To make all elements inside <div class="draggable"></div> unselectable, use this CSS:
+.draggable {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.draggable input {
+-webkit-user-select: text;
+-khtml-user-select: text;
+-moz-user-select: text;
+-o-user-select: text;
+user-select: text;
+}
+And then, if you're using jQuery, add this inside a $(document).ready() block:
+if (($.browser.msie && $.browser.version < 10) || $.browser.opera) $('.draggable').find(':not(input)').attr('unselectable', 'on');
+I figure you still want any input elements to be interactable, hence the :not() pseudo-selector. You could use '*' instead if you don't care.
+Caveat: IE9 may not need this extra jQuery piece, so you may want to add a version check in there.
+share|improve this answer
+edited Oct 29 '13 at 17:09
+James Donnelly
+101k22158174
+answered Nov 11 '11 at 19:53
+Tom AugerTom Auger
+11.1k166590
+5
+Use -ms-user-select: none; (for IE10) and your jQuery "if" should be this: if (($.browser.msie && $.browser.version < 10) || $.browser.opera)
+– mhenry1384
+Jan 31 '13 at 3:42
+Be careful man !!! To make it selectable in firefox you must use -moz-user-select: Normal;
+– Nicolas Thery
+Mar 10 '13 at 16:53
+@nicholasthery w3.org/TR/2000/WD-css3-userint-20000216#user-select
+– Tom Auger
+Mar 11 '13 at 13:44
+7
+@mhenry1384 jQuery.browser has been deprecated as of version 1.3 and has been removed in version 1.9 - api.jquery.com/jQuery.browser
+– WynandB
+Mar 14 '13 at 23:58
+@Wynand Good point. But what sort of "feature detection" exists to determine which CSS property to use?
+– Tom Auger
+Mar 15 '13 at 13:28
+|
+show 2 more comments
+66
+.hidden:after {
+content: attr(data-txt);
+}
+<p class="hidden" data-txt="Some text you don't want to be selected"></p>
+It's not the best way, though.
+share|improve this answer
+edited Jun 16 '17 at 2:37
+Fred Gandt
+2,61112131
+answered May 1 '13 at 11:36
+AleAle
+1,6211526
+2
+You could also use title as the attribute.
+– Toothbrush
+May 7 '14 at 16:50
+5
+That is a very creative solution. Especially if it used the title attribute because that would probably be better for screen readers.
+– pseudosavant
+Sep 16 '14 at 21:49
+4
+I tried it (JSBin) and it doesn't work in IE. Unfortunately older IEs are the only ones that user-select doesn't work for.
+– pseudosavant
+Sep 16 '14 at 21:58
+1
+This is a great non-JS alternative that works in Chrome! Awesome!
+– saricden
+Nov 6 '18 at 15:05
+add a comment |
+63
+You can use CSS or JavaScript for that, JavaScript way is supported in Older browsers like Old IEs as well, but if it's not your case, use the CSS way then:
+HTML/JavaScript:
+<html onselectstart='return false;'>
+<body>
+<h1>This is the Heading!</h1>
+<p>And I'm the text, I won't be selected if you select me.</p>
+</body>
+</html>
+HTML/CSS:
+.not-selectable {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+<body class="not-selectable">
+<h1>This is the Heading!</h1>
+<p>And I'm the text, I won't be selected if you select me.</p>
+</body>
+share|improve this answer
+edited May 14 '18 at 13:52
+answered Jun 5 '17 at 14:03
+AlirezaAlireza
+53k14180125
+The javascript version is not fully working as intended. If you start selecting under the text and then move your cursor up the text will be selecting just fine.
+– Gh61
+May 14 '18 at 13:48
+@Gh61 it was because was applied to body and the Run code snippet make a html tag around it, so if apply it to <html> it will do it, look at the update
+– Alireza
+May 14 '18 at 13:54
+add a comment |
+58
+For Internet Explorer in addition, you need to add pseudo class focus (.ClassName:focus) and outline-style:none.
+.ClassName,
+.ClassName:focus {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+outline-style:none;/*IE*/
+}
+share|improve this answer
+edited Nov 26 '14 at 0:29
+alex
+346k173775916
+answered Dec 23 '13 at 14:05
+Elad ShechterElad Shechter
+2,4461419
+3
+This does work in IE so long as the selection starts on an element with the className class. See this JSBin.
+– pseudosavant
+Sep 16 '14 at 22:01
+add a comment |
+47
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+*.unselectable {
+-moz-user-select: -moz-none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+user-select: none;
+}
+<div id="foo" unselectable="on" class="unselectable">...</div>
+function makeUnselectable(node) {
+if (node.nodeType == 1) {
+node.unselectable = true;
+}
+var child = node.firstChild;
+while (child) {
+makeUnselectable(child);
+child = child.nextSibling;
+}
+}
+makeUnselectable(document.getElementById("foo"));
+-webkit-user-select:none;
+-moz-user-select:none;
+onselectstart="return false;"
+::selection { background: transparent; }
+::-moz-selection { background: transparent; }
+* {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: -moz-none;
+-o-user-select: none;
+user-select: none;
+}
+p {
+-webkit-user-select: text;
+-khtml-user-select: text;
+-moz-user-select: text;
+-o-user-select: text;
+user-select: text;
+}
+<div class="draggable"></div>
+.draggable {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+.draggable input {
+-webkit-user-select: text;
+-khtml-user-select: text;
+-moz-user-select: text;
+-o-user-select: text;
+user-select: text;
+}
+if ($.browser.msie) $('.draggable').find(':not(input)').attr('unselectable', 'on');
+share|improve this answer
+edited Oct 29 '13 at 17:11
+James Donnelly
+101k22158174
+answered Oct 26 '12 at 5:44
+GaurangGaurang
+1,7261211
+add a comment |
+47
+For those who have trouble achieving the same in the Android browser with the touch event, use:
+html,body{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+-webkit-tap-highlight-color: transparent;
+}
+share|improve this answer
+edited Apr 17 '16 at 4:53
+Peter Mortensen
+13.9k1987113
+answered May 19 '14 at 5:30
+Beep.exeBeep.exe
+1,1801016
+@Volker E. well, he DOES say that it's for the android browser only, you could just add that to the other answers instead of being sarcastic.
+– dudewad
+Jan 7 '16 at 21:33
+add a comment |
+47
+Working
+CSS:
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+This should be working, but it won't work for the old browsers. There is a browser compatibility issue.
+share|improve this answer
+edited Apr 17 '16 at 4:58
+Peter Mortensen
+13.9k1987113
+answered Feb 27 '14 at 9:01
+suraj rawatsuraj rawat
+2,7531426
+The unprefixed CSS property must be strictly at the end of list of prefixed versions of the property. It is good right practice, other is bad practice making an "new IE" from Chrome/Webkit and leading to so much UGLY THINGS as introducing -webkit prefix support in not webkit browsers. Look, this was already in 2012: dev.opera.com/articles/…
+– FlameStorm
+Mar 21 '17 at 22:52
+And I quote: This is because through our site compatibility work, we have experienced that many authors of (especially mobile) sites only use -webkit- prefixed CSS, thereby ignoring other vendor prefixes and not even including an unprefixed equivalent. This leads to a reduced user experience on Opera and Firefox, which don’t receive the same shiny effects such as transitions, gradients and the like, even if the browser supported those effects.
+– FlameStorm
+Mar 21 '17 at 22:52
+add a comment |
+47
+Try insert this rows to CSS and call the "disHighlight" at class property:
+.disHighlight{
+user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+-webkit-touch-callout: none;
+-o-user-select: none;
+-moz-user-select: none;
+}
+share|improve this answer
+edited Nov 30 '18 at 10:48
+codeWithMe
+267211
+answered Aug 28 '16 at 7:13
+user1012506user1012506
+1,2661333
+1
+Seems like a copy of the accepted answer except you added cursor: default in the middle, for some reason. The question asker did not ask for the cursor to be set to default.
+– carefulnow1
+Dec 13 '16 at 9:22
+My source code.
+– user1012506
+Dec 13 '16 at 11:20
+2
+You may of typed in in, however the general code is a direct copy of this, on the first page of this thread: stackoverflow.com/a/4407335/3016335.
+– carefulnow1
+Dec 13 '16 at 13:36
+add a comment |
+46
+If you are using Less and Bootstrap you could write:
+.user-select(none);
+share|improve this answer
+edited Apr 17 '16 at 5:09
+Peter Mortensen
+13.9k1987113
+answered Apr 18 '12 at 8:34
+CodlerCodler
+7,41353959
+add a comment |
+34
+Aside from the Mozilla-only property, no, there is no way to disable text selection with just standard CSS (as of now).
+If you notice, Stack Overflow doesn't disable text selection for their navigation buttons, and I would recommend against doing so in most cases, since it modifies normal selection behavior and makes it conflict with a user's expectations.
+share|improve this answer
+answered May 5 '09 at 20:38
+hbwhbw
+13.7k44256
+While I agree that it changes behaviour the user expects, it would make sense for things like the "Add Comment" button that is sitting next to this form field ...
+– X-Istence
+May 5 '09 at 20:40
+But doesn't that expose needless implementation details?
+An input or button's text can't be selected.
+– anon
+May 5 '09 at 20:40
+@anon: Most users will probably not try to select the text of your button, so in practice, it shouldn't really matter much. Besides, in order to do so, they will have to start selecting outside of the button—if they click inside the button itself, the onclick handler will activate instead. Plus, certain browsers (e.g. Safari) actually let you select the text of normal buttons…
+– hbw
+May 5 '09 at 20:49
+5
+If you're selecting a set of comments from a chat thread and each comment has an upvote/downvote button next to it, then it would be nice to select the text without the other stuff. That's what the user expects or wants. He doesn't want to copy/paste the button labels with every comment.
+– Mnebuerquo
+Aug 3 '13 at 16:52
+2
+And what if you for example double click a button which instead of redirecting you to another page opens a div? then the text for the button will be selected due to the double-click!
+– Gigala
+Jul 25 '14 at 11:32
+|
+show 2 more comments
+33
+This works in some browsers:
+::selection{ background-color: transparent;}
+::moz-selection{ background-color: transparent;}
+::webkit-selection{ background-color: transparent;}
+Simply add your desired elements/ids in front of the selectors separated by commas without spaces, like so:
+h1::selection,h2::selection,h3::selection,p::selection{ background-color: transparent;}
+h1::moz-selection,h2::moz-selection,h3::moz-selection,p::moz-selection{ background-color: transparent;}
+h1::webkit-selection,h2::webkit-selection,h3::webkit-selection,p::webkit-selection{ background-color: transparent;}
+The other answers are better; this should probably be seen as a last resort/catchall.
+share|improve this answer
+edited Apr 17 '16 at 4:54
+Peter Mortensen
+13.9k1987113
+answered Apr 9 '14 at 22:56
+r3wtr3wt
+3,0591944
+2
+There are few things that can be known for sure, but this solution definitely doesn't work in all browsers.
+– Volker E.
+Sep 30 '14 at 9:27
+1
+they why you say all browsers.. clearly you can edit better your answer
+– scx
+Nov 13 '14 at 14:03
+@scx the goal of the answer was to provide a starting point. as you can see, there are much better answers than mine anyway. if i have time to take another crack at it in the future, i'll experiment and see what i can come up with.
+– r3wt
+Nov 14 '14 at 11:13
+add a comment |
+32
+Suppose there are two div like this
+.second {
+cursor: default;
+user-select: none;
+-webkit-user-select: none;
+/* Chrome/Safari/Opera */
+-moz-user-select: none;
+/* Firefox */
+-ms-user-select: none;
+/* IE/Edge */
+-webkit-touch-callout: none;
+/* iOS Safari */
+}
+<div class="first">
+This is my first div
+</div>
+<div class="second">
+This is my second div
+</div>
+Set cursor to default so that it will give a unselectable feel to user/
+Prefix need to be use to support it in all browsers without prefix this may not work in all the answers.
+share|improve this answer
+edited Jun 24 '16 at 11:57
+answered Mar 28 '16 at 9:42
+Gaurav AggarwalGaurav Aggarwal
+7,35431951
+add a comment |
+29
+This will be useful if color selection is also not needed:
+::-moz-selection { background:none; color:none; }
+::selection { background:none; color:none; }
+...all other browser fixes. It will work in Internet Explorer 9 or later.
+share|improve this answer
+edited Apr 17 '16 at 5:01
+Peter Mortensen
+13.9k1987113
+answered Apr 3 '13 at 8:31
+karthipan rajkarthipan raj
+640713
+1
+Make that color: inherit; maybe.
+– Yaakov Ainspan
+Jul 28 '16 at 1:25
+yeah I love it. It's css selector level 3 according to Mozilla docs
+– Bariq Dharmawan
+Jan 28 '18 at 10:37
+add a comment |
+28
+Add this to the first div in which you want to disable the selection for text:
+onmousedown='return false;'
+onselectstart='return false;'
+share|improve this answer
+edited Mar 10 '13 at 19:58
+Peter Mortensen
+13.9k1987113
+answered Oct 30 '12 at 6:56
+Chase1986Chase1986
+58759
+add a comment |
+28
+NOTE:
+The correct answer is correct in that it prevents you from being able to select the text. However, it does not prevent you from being able to copy the text, as I'll show with the next couple of screenshots (as of 7th Nov 2014).
+As you can see, we were unable to select the numbers, but we were able to copy them.
+Tested on: Ubuntu, Google Chrome 38.0.2125.111.
+share|improve this answer
+edited Apr 17 '16 at 4:52
+Peter Mortensen
+13.9k1987113
+answered Nov 7 '14 at 13:22
+Luke MadhangaLuke Madhanga
+2,75912229
+1
+I've had the same problem. On Mac Chrome 48.0.2564.116 and on Mac Safari 9.0.3. Notably, Mac Firefox 43.0 doesn't copy the character, but sticks extra endlines between them.
+What should be done about this?
+– NHDaly
+Mar 5 '16 at 1:34
+add a comment |
+24
+To get the result I needed I found I had to use both ::selection and user-select
+input.no-select:focus {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+input.no-select::selection {
+background: transparent;
+}
+input.no-select::-moz-selection {
+background: transparent;
+}
+share|improve this answer
+edited Jan 15 '16 at 8:24
+Tschallacka
+16.6k75695
+answered May 14 '15 at 0:13
+SemanticZenSemanticZen
+771920
+add a comment |
+22
+This is not CSS, but it is worth a mention:
+jQuery UI Disable Selection:
+$("your.selector").disableSelection();
+share|improve this answer
+answered Apr 9 '13 at 16:42
+AutomaticoAutomatico
+6,81824889
+22
+Deprecated as of version 1.9...
+– adamb
+Jun 18 '13 at 21:18
+add a comment |
+21
+Though this pseudo-element was in drafts of CSS Selectors Level 3, it was removed during the Candidate Recommendation phase, as it appeared that its behavior was under-specified, especially with nested elements, and interoperability wasn't achieved.
+It's being discussed in How ::selection works on nested elements.
+Despite it is being implemented in browser, you can make an illusion of text not being selected by using the same color and background color on selection as of the tab design (in your case).
+Normal CSS Design
+p { color: white;
+background: black; }
+On selection
+p::-moz-selection { color: white;
+background: black; }
+p::selection
+{ color: white;
+background: black; }
+Disallowing users to select the text will raise usability issues.
+share|improve this answer
+edited Apr 17 '16 at 4:57
+Peter Mortensen
+13.9k1987113
+answered Mar 21 '14 at 13:53
+Suraj NaikSuraj Naik
+49347
+This must be why Netbeans auto-completion has no idea what I am talking about!
+– halfer
+Apr 26 '14 at 20:16
+add a comment |
+21
+Check my solution without JavaScript:
+jsFiddle
+li:hover {
+background-color: silver;
+}
+#id1:before {
+content: "File";
+}
+#id2:before {
+content: "Edit";
+}
+#id3:before {
+content: "View";
+}
+<ul>
+<li><a id="id1" href="www.w1.com"></a>
+<li><a id="id2" href="www.w2.com"></a>
+<li><a id="id3" href="www.w3.com"></a>
+</ul>
+Popup menu with my technique applied: http://jsfiddle.net/y4Lac/2/
+share|improve this answer
+edited Apr 17 '16 at 5:00
+Peter Mortensen
+13.9k1987113
+answered Feb 22 '14 at 22:06
+zgnileczgnilec
+1,92133063
+add a comment |
+16
+Quick hack update: March 2017 -from CSS-Tricks
+If you put the value 'none' for all the CSS user select attributes as showed in below, there is a problem which can be still occurred by this.
+.div{
+-webkit-user-select: none; /* Chrome all / Safari all */
+-moz-user-select: none;
+/* Firefox all */
+-ms-user-select: none;
+/* IE 10+ */
+user-select: none;
+/* Likely future */
+}
+As CSS-Trick says the problems is
+WebKit still allows the text to be copied if you select elements
+around it.
+So you can also use the below one instead to enforce that an entire element getting selected which is the solution for the problem. All you have to do is changing the value 'none' to 'all' which would look like this
+.force-select {
+-webkit-user-select: all;
+/* Chrome 49+ */
+-moz-user-select: all;
+/* Firefox 43+ */
+-ms-user-select: all;
+/* No support yet */
+user-select: all;
+/* Likely future */
+}
+share|improve this answer
+answered Mar 31 '18 at 11:32
+KazKaz
+309212
+add a comment |
+15
+I have learned from CSS-Tricks website.
+user-select: none;
+And this also:
+::selection{ background-color: transparent;}
+::moz-selection{ background-color: transparent;}
+::webkit-selection{ background-color: transparent;}
+share|improve this answer
+answered Apr 1 '16 at 11:16
+Mohammed JavedMohammed Javed
+5991719
+add a comment |
+13
+Easily done with:
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+alternatively:
+Let's say you have a <h1 id="example">Hello, World!</h1>, What you will have to do is remove the innerHTML of that h1: in this case Hello, World. Then you will have to go to css and do this:
+#example::before //You can ofc use **::after** as well.
+{
+content: 'Hello, World!'; //Both single-quotes and double-quotes can be used here.
+display: block; //To make sure it works fine in every browser.
+}
+Now it simply thinks it is a block-element, and not a text.
+share|improve this answer
+edited Nov 20 '18 at 18:57
+answered Nov 8 '18 at 9:17
+codeWithMecodeWithMe
+267211
+add a comment |
+1
+2
+next
+protected by Community♦ Apr 25 '12 at 20:42
+Thank you for your interest in this question.
+Because it has attracted low-quality or spam answers that had to be removed, posting an answer now requires 10 reputation on this site (the association bonus does not count).
+Would you like to answer one of these unanswered questions instead?
+asked
+9 years, 11 months ago
+viewed
+1,628,789 times
+active
+4 months ago
+Blog
+The 2019 Stack Overflow Developer Survey Results Are In
+Visit chat
+Linked
+229
+How do I disable text selection with CSS or JavaScript?
+132
+Is there a way to make text unselectable on an HTML page?
+149
+How to make HTML Text unselectable
+210
+How to make certain text not selectable with CSS
+13
+Making text unselectable
+13
+Prevent selection from Shift+Click
+8
+How Can I Make HTML Elements Unhighlightable?
+6
+How to disable highlighting ( select ) text in DIV
+4
+How to make a Ul list item unselectable
+5
+Is there a way for mouse to completely ignore an html element?
+see more linked questions…
+Related
+3917How to horizontally center a <div>?1603How to align checkboxes and their labels consistently cross-browsers1241How to vertically center a div for all browsers?1811Vertically align text next to an image?2118How do I give text or an image a transparent background using CSS?1163How to style a <select> dropdown with only CSS?229How do I disable text selection with CSS or JavaScript?2349How to disable resizable property of textarea?302Get the Highlighted/Selected text2042How do I vertically center text with CSS?
+Hot Network Questions
+Aging parents with no investments
+Does the shape of a die affect the probability of a number being rolled?
+How to check whether the reindex working or not in Magento?
+How can I add encounters in the Lost Mine of Phandelver campaign without giving PCs too much XP?
+Ubuntu Server install with full GUI
+Multiply Two Integer Polynomials
+Right tool to dig six foot holes?
+Can we generate random numbers using irrational numbers like π and e?
+Landlord wants to switch my lease to a "Land contract" to "get back at the city"
+Loose spokes after only a few rides
+Output the Arecibo Message
+Can there be female White Walkers?
+If I score a critical hit on an 18 or higher, what are my chances of getting a critical hit if I roll 3d20?
+Should I use my personal e-mail address, or my workplace one, when registering to external websites for work purposes?
+How much of the clove should I use when using big garlic heads?
+Why isn't the circumferential light around the M87 black hole's event horizon symmetric?
+merge two greps into single one
+Are there any other methods to apply to solving simultaneous equations?
+Can a rogue use sneak attack with weapons that have the thrown property even if they are not thrown?
+Is it possible for absolutely everyone to attain enlightenment?
+What could be the right powersource for 15 seconds lifespan disposable giant chainsaw?
+The difference between dialogue marks
+Reference request: Oldest number theory books with (unsolved) exercises?
+Can one be advised by a professor who is very far away?
+more hot questions
+question feed
+default
+Stack Overflow
+Questions
+Jobs
+Developer Jobs Directory
+Salary Calculator
+Help
+Mobile
+Products
+Teams
+Talent
+Advertising
+Enterprise
+Company
+About
+Press
+Work Here
+Legal
+Privacy Policy
+Contact Us
+Stack Exchange Network
+Technology
+Life / Arts
+Culture / Recreation
+Science
+Other
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+Stack Overflow em Português
+Blender
+Network Engineering
+Cryptography
+Code Review
+Magento
+Software Recommendations
+Signal Processing
+Emacs
+Raspberry Pi
+Stack Overflow на русском
+Programming Puzzles & Code Golf
+Stack Overflow en español
+Ethereum
+Data Science
+Arduino
+Bitcoin
+more (31)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Worldbuilding
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+Law
+more (15)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Puzzling
+Motor Vehicle Maintenance & Repair
+more (33)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (10)
+Meta Stack Exchange
+Stack Apps
+API
+Data
+Blog
+Facebook
+Twitter
+LinkedIn
+site design / logo © 2019 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0
+with attribution required.
+rev 2019.4.11.33298
+Stack Overflow works best with JavaScript enabled
