@@ -9,6 +9,7 @@ public class MyConnection {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             con = DriverManager.getConnection("jdbc:mysql://localhost:3306/java_login_register", "bonafide","BoNaFiDe###@123");
+            System.out.println("Ayush");
         } catch (Exception ex) {
         	
             System.out.println("Error");

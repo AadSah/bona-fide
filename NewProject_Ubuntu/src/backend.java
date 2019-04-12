@@ -16,7 +16,7 @@ public class backend {
 	// set up the command and parameter
                 String working = System.getProperty("user.dir");
 		String pythonScriptPath = working+"/main"+number+".py";
-                System.out.println(pythonScriptPath);
+                //System.out.println(pythonScriptPath);
 		String[] cmd = new String[2];
 		cmd[0] = "python"; // check version of installed python: python -V
 		cmd[1] = pythonScriptPath;
