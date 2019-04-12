@@ -29,7 +29,7 @@ for contentline in content:	#going through each line in the user data
 
 				matched.write("Line-"+str(linecount)+"::"+URLsToCheck+"\n")	#writing for matched sources
 				# highlight.write("<font color=\"red\"><b>"+contentline+"</b></font>\n")	#writing for highlighting
-				highlight.write(contentline.upper() + "Source::{" + URLsToCheck + "}\n\n")
+				highlight.write(contentline.upper() + "Source::{" + URLsToCheck + "}\n")
 			else:
 				plagper += somevar
 
