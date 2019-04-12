@@ -278,6 +278,7 @@ public class Search extends javax.swing.JFrame {
         // TODO add your handling code here:
         gif.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageedit.gif")));
         String name = jLabel5.getText();
+        String session1 = jTextFieldSession1.getText();
         //String working = System.getProperty("user.dir");
         //System.out.println(working);
         new java.util.Timer().schedule(
@@ -345,7 +346,9 @@ public class Search extends javax.swing.JFrame {
                             Result rgf = new Result();
                             rgf.jLabel5.setText(name);
                             rgf.jLabelPlagiarism.setText(result[0]);
-                            rgf.jLabelUnique.setText(result[1]);
+                            rgf.jLabelUnique.setText(result[1]);                            
+                            rgf.jLabelSession.setText(session1);
+                            //rgf.jLabelSession.setText(session1);
                             rgf.setVisible(true);
                             rgf.pack();
                             rgf.setLocationRelativeTo(null);
@@ -367,7 +370,8 @@ public class Search extends javax.swing.JFrame {
                             rgf.setVisible(true);
                             rgf.jLabel5.setText(name);
                             rgf.jLabelPlagiarism.setText(result[0]);
-                            rgf.jLabelUnique.setText(result[1]);
+                            rgf.jLabelUnique.setText(result[1]);                            
+                            rgf.jLabelSession.setText(session1);
                             rgf.pack();
                             rgf.setLocationRelativeTo(null);
                             rgf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -394,6 +398,7 @@ public class Search extends javax.swing.JFrame {
         // TODO add your handling code here:
         gif.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageedit.gif")));
         String name = jLabel5.getText();
+        String session1 = jTextFieldSession1.getText();
         new java.util.Timer().schedule(
         
                 new java.util.TimerTask() {
@@ -460,7 +465,8 @@ public class Search extends javax.swing.JFrame {
                             rgf.setVisible(true);
                             rgf.jLabel5.setText(name);
                             rgf.jLabelPlagiarism.setText(result[0]);
-                            rgf.jLabelUnique.setText(result[1]);
+                            rgf.jLabelUnique.setText(result[1]);                            
+                            rgf.jLabelSession.setText(session1);
                             rgf.pack();
                             rgf.setLocationRelativeTo(null);
                             rgf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -481,7 +487,8 @@ public class Search extends javax.swing.JFrame {
                             rgf.setVisible(true);
                             rgf.jLabel5.setText(name);
                             rgf.jLabelPlagiarism.setText(result[0]);
-                            rgf.jLabelUnique.setText(result[1]);
+                            rgf.jLabelUnique.setText(result[1]);                            
+                            rgf.jLabelSession.setText(session1);
                             rgf.pack();
                             rgf.setLocationRelativeTo(null);
                             rgf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

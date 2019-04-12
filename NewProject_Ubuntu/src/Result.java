@@ -342,7 +342,7 @@ public class Result extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel9;
     public javax.swing.JLabel jLabelPlagiarism;
-    private javax.swing.JLabel jLabelSession;
+    public javax.swing.JLabel jLabelSession;
     public javax.swing.JLabel jLabelUnique;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea jTextArea1;
